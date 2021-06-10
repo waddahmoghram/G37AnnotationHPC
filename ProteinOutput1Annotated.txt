@@ -1,0 +1,30 @@
+# Query: WP_009885556.1 DNA polymerase III subunit delta' [Mycoplasma genitalium]
+>WP_010874364.1 DNA polymerase III subunit delta [Mycoplasma pneumoniae]
+WP_009885556.1	WP_010874364	51.969	254	121	1	1	254	1	253	5.55e-98	295
+# Query: WP_009885557.1 thymidylate kinase [Mycoplasma genitalium]
+>WP_010874363.1 thymidylate kinase [Mycoplasma pneumoniae]
+WP_009885557.1	WP_010874363	62.019	208	79	0	1	208	1	208	2.17e-93	280
+# Query: WP_009885559.1 DNA gyrase subunit A [Mycoplasma genitalium]
+>WP_014574838.1 DNA gyrase subunit A [Mycoplasma pneumoniae]
+WP_009885559.1	WP_014574838	85.816	839	116	1	1	836	1	839	0.0	1457
+# Query: WP_009885560.1 DNA gyrase subunit B [Mycoplasma genitalium]
+>WP_010874360.1 DNA gyrase subunit B [Mycoplasma pneumoniae]
+WP_009885560.1	WP_010874360	90.615	650	61	0	1	650	1	650	0.0	1242
+# Query: WP_009885561.1 molecular chaperone DnaJ [Mycoplasma genitalium]
+>WP_019830484.1 molecular chaperone DnaJ [Mycoplasma pneumoniae]
+WP_009885561.1	WP_019830484	66.990	309	101	1	1	309	1	308	1.29e-153	440
+# Query: WP_009885562.1 DNA polymerase III subunit beta [Mycoplasma genitalium]
+>WP_010874358.1 DNA polymerase III subunit beta [Mycoplasma pneumoniae]
+WP_009885562.1	WP_010874358	71.316	380	109	0	1	380	1	380	0.0	550
+# Query: WP_009885563.1 chromosome partitioning protein ParA [Mycoplasma genitalium]
+>WP_010875045.1 chromosome partitioning protein ParA [Mycoplasma pneumoniae]
+WP_009885563.1	WP_010875045	90.262	267	25	1	1	266	1	267	2.77e-172	484
+# Query: WP_009885564.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010875044.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885564.1	WP_010875044	39.924	263	99	8	1	217	1	250	1.25e-38	142
+# Query: WP_009885565.1 ABC transporter permease [Mycoplasma genitalium]
+>WP_014575059.1 ABC transporter permease [Mycoplasma pneumoniae]
+WP_009885565.1	WP_014575059	68.661	1889	479	14	1	1783	1	1882	0.0	2529
+# Query: WP_009885566.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_038534329.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_009885566.1	WP_038534329	70.427	328	70	2	8	310	13	338	2.75e-157	451

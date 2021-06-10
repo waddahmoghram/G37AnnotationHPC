@@ -1,0 +1,1532 @@
+# BLASTP 2.5.0+
+# Database: refseq_protein
+# Fields: query acc., subject acc., % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# Query: WP_009885556.1 DNA polymerase III subunit delta' [Mycoplasma genitalium]
+>WP_010874364.1 DNA polymerase III subunit delta [Mycoplasma pneumoniae]
+WP_009885556.1	WP_010874364	51.969	254	121	1	1	254	1	253	5.55e-98	295
+# Query: WP_009885557.1 thymidylate kinase [Mycoplasma genitalium]
+>WP_010874363.1 thymidylate kinase [Mycoplasma pneumoniae]
+WP_009885557.1	WP_010874363	62.019	208	79	0	1	208	1	208	2.17e-93	280
+# Query: WP_009885559.1 DNA gyrase subunit A [Mycoplasma genitalium]
+>WP_014574838.1 DNA gyrase subunit A [Mycoplasma pneumoniae]
+WP_009885559.1	WP_014574838	85.816	839	116	1	1	836	1	839	0.0	1457
+# Query: WP_009885560.1 DNA gyrase subunit B [Mycoplasma genitalium]
+>WP_010874360.1 DNA gyrase subunit B [Mycoplasma pneumoniae]
+WP_009885560.1	WP_010874360	90.615	650	61	0	1	650	1	650	0.0	1242
+# Query: WP_009885561.1 molecular chaperone DnaJ [Mycoplasma genitalium]
+>WP_019830484.1 molecular chaperone DnaJ [Mycoplasma pneumoniae]
+WP_009885561.1	WP_019830484	66.990	309	101	1	1	309	1	308	1.29e-153	440
+# Query: WP_009885562.1 DNA polymerase III subunit beta [Mycoplasma genitalium]
+>WP_010874358.1 DNA polymerase III subunit beta [Mycoplasma pneumoniae]
+WP_009885562.1	WP_010874358	71.316	380	109	0	1	380	1	380	0.0	550
+# Query: WP_009885563.1 chromosome partitioning protein ParA [Mycoplasma genitalium]
+>WP_010875045.1 chromosome partitioning protein ParA [Mycoplasma pneumoniae]
+WP_009885563.1	WP_010875045	90.262	267	25	1	1	266	1	267	2.77e-172	484
+# Query: WP_009885564.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010875044.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885564.1	WP_010875044	39.924	263	99	8	1	217	1	250	1.25e-38	142
+# Query: WP_009885565.1 ABC transporter permease [Mycoplasma genitalium]
+>WP_014575059.1 ABC transporter permease [Mycoplasma pneumoniae]
+WP_009885565.1	WP_014575059	68.661	1889	479	14	1	1783	1	1882	0.0	2529
+# Query: WP_009885566.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_038534329.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_009885566.1	WP_038534329	70.427	328	70	2	8	310	13	338	2.75e-157	451
+# Query: WP_009885567.1 50S ribosomal protein L34 [Mycoplasma genitalium]
+>WP_010875039.1 50S ribosomal protein L34 [Mycoplasma pneumoniae]
+WP_009885567.1	WP_010875039	87.500	48	6	0	1	48	1	48	2.44e-20	82.8
+# Query: WP_009885568.1 ribonuclease P protein component [Mycoplasma genitalium]
+>WP_010875038.1 ribonuclease P protein component [Mycoplasma pneumoniae]
+WP_009885568.1	WP_010875038	57.895	114	48	0	1	114	1	114	5.35e-42	142
+# Query: WP_009885569.1 protein translocase component YidC [Mycoplasma genitalium]
+>WP_010875037.1 protein translocase component YidC [Mycoplasma pneumoniae]
+WP_009885569.1	WP_010875037	88.831	385	43	0	1	385	1	385	0.0	697
+# Query: WP_009885570.1 glutamate--tRNA ligase [Mycoplasma genitalium]
+>WP_014325677.1 glutamate--tRNA ligase [Mycoplasma pneumoniae]
+WP_009885570.1	WP_014325677	71.901	484	136	0	1	484	1	484	0.0	750
+# Query: WP_009885571.1 L-lactate dehydrogenase [Mycoplasma genitalium]
+>WP_010875031.1 L-lactate dehydrogenase [Mycoplasma pneumoniae]
+WP_009885571.1	WP_010875031	82.692	312	54	0	1	312	1	312	0.0	533
+# Query: WP_009885572.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325674.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885572.1	WP_014325674	76.923	169	39	0	1	169	1	169	6.29e-88	263
+# Query: WP_009885573.1 hypoxanthine-guanine phosphoribosyltransferase [Mycoplasma genitalium]
+>WP_010875029.1 hypoxanthine-guanine phosphoribosyltransferase [Mycoplasma pneumoniae]
+WP_009885573.1	WP_010875029	72.989	174	47	0	1	174	1	174	6.26e-91	271
+# Query: WP_009885575.1 ATP-dependent zinc metalloprotease FtsH [Mycoplasma genitalium]
+>WP_010875028.1 ATP-dependent zinc metalloprotease FtsH [Mycoplasma pneumoniae]
+WP_009885575.1	WP_010875028	85.420	679	89	5	3	677	2	674	0.0	1155
+# Query: WP_009885576.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014575052.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885576.1	WP_014575052	43.229	192	109	0	1	192	1	192	2.11e-51	172
+# Query: WP_009885577.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010875027.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885577.1	WP_010875027	55.519	308	133	3	1	306	1	306	2.98e-118	353
+# Query: WP_009885581.1 UTP--glucose-1-phosphate uridylyltransferase [Mycoplasma genitalium]
+>WP_010875024.1 UTP--glucose-1-phosphate uridylyltransferase [Mycoplasma pneumoniae]
+WP_009885581.1	WP_010875024	74.386	285	72	1	4	287	3	287	1.40e-152	436
+# Query: WP_009885582.1 hypothetical protein [Mycoplasma genitalium]
+>WP_054174998.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885582.1	WP_054174998	58.607	244	98	3	11	251	1	244	1.18e-90	276
+# Query: WP_009885583.1 elongation factor Tu [Mycoplasma genitalium]
+>WP_010875022.1 elongation factor Tu [Mycoplasma pneumoniae]
+WP_009885583.1	WP_010875022	96.701	394	13	0	1	394	1	394	0.0	787
+# Query: WP_009885584.1 hypothetical protein [Mycoplasma genitalium]
+>WP_054175490.1 fatty acid-binding protein DegV [Mycoplasma pneumoniae]
+WP_009885584.1	WP_054175490	67.931	290	93	0	1	290	1	290	1.84e-142	410
+# Query: WP_009885587.1 peptide-methionine (R)-S-oxide reductase [Mycoplasma genitalium]
+>WP_010875019.1 peptide-methionine (R)-S-oxide reductase [Mycoplasma pneumoniae]
+WP_009885587.1	WP_010875019	85.811	148	21	0	1	148	1	148	8.28e-93	273
+# Query: WP_009885592.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010875005.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885592.1	WP_010875005	34.815	135	79	4	6	133	1	133	1.46e-09	61.2
+# Query: WP_009885594.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014575042.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885594.1	WP_014575042	59.459	259	104	1	1	258	1	259	3.76e-106	316
+# Query: WP_009885595.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325660.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885595.1	WP_014325660	55.000	280	115	2	3	272	12	290	7.48e-99	299
+# Query: WP_009885596.1 type I restriction modification protein [Mycoplasma genitalium]
+>WP_014325652.1 type I restriction modification protein [Mycoplasma pneumoniae]
+WP_009885596.1	WP_014325652	71.467	375	106	1	1	374	1	375	0.0	576
+# Query: WP_009885597.1 phosphatidate cytidylyltransferase [Mycoplasma genitalium]
+>WP_010874994.1 phosphatidate cytidylyltransferase [Mycoplasma pneumoniae]
+WP_009885597.1	WP_010874994	66.076	395	132	1	1	393	1	395	3.22e-176	504
+# Query: WP_009885599.1 UMP kinase [Mycoplasma genitalium]
+>WP_058141155.1 UMP kinase [Mycoplasma pneumoniae]
+WP_009885599.1	WP_058141155	69.231	234	72	0	8	241	1	234	2.13e-109	322
+# Query: WP_009885600.1 elongation factor Ts [Mycoplasma genitalium]
+>WP_019830487.1 translation elongation factor Ts [Mycoplasma pneumoniae]
+WP_009885600.1	WP_019830487	71.812	298	84	0	1	298	1	298	1.08e-162	462
+# Query: WP_009885601.1 membrane protein [Mycoplasma genitalium]
+>WP_014575037.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885601.1	WP_014575037	74.742	388	95	2	1	386	1	387	0.0	605
+# Query: WP_009885602.1 triose-phosphate isomerase [Mycoplasma genitalium]
+>WP_010874986.1 triose-phosphate isomerase [Mycoplasma pneumoniae]
+WP_009885602.1	WP_010874986	68.852	244	76	0	1	244	1	244	9.51e-120	349
+# Query: WP_009885603.1 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Mycoplasma genitalium]
+>WP_014325644.1 2,3-bisphosphoglycerate-independent phosphoglycerate mutase [Mycoplasma pneumoniae]
+WP_009885603.1	WP_014325644	71.429	504	143	1	1	503	1	504	0.0	778
+# Query: WP_009885604.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325642.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885604.1	WP_014325642	68.023	172	54	1	1	171	1	172	2.11e-79	241
+# Query: WP_009885605.1 hydroperoxide reductase [Mycoplasma genitalium]
+>WP_010874982.1 hydroperoxide reductase [Mycoplasma pneumoniae]
+WP_009885605.1	WP_010874982	76.596	141	33	0	1	141	1	141	1.65e-71	219
+# Query: WP_009885606.1 50S ribosomal protein L28 [Mycoplasma genitalium]
+>WP_010874981.1 50S ribosomal protein L28 [Mycoplasma pneumoniae]
+WP_009885606.1	WP_010874981	84.375	64	10	0	1	64	1	64	7.53e-32	112
+# Query: WP_009885607.1 ATP-dependent RNA helicase [Mycoplasma genitalium]
+>WP_019830489.1 DEAD/DEAH box helicase [Mycoplasma pneumoniae]
+WP_009885607.1	WP_019830489	66.444	450	150	1	1	449	1	450	0.0	642
+# Query: WP_009885608.1 30S ribosomal protein S15 [Mycoplasma genitalium]
+>WP_010874979.1 30S ribosomal protein S15 [Mycoplasma pneumoniae]
+WP_009885608.1	WP_010874979	75.581	86	21	0	1	86	1	86	1.40e-38	131
+# Query: WP_009885609.1 DNA polymerase III subunit gamma/tau [Mycoplasma genitalium]
+>WP_017532961.1 DNA polymerase III, subunit gamma and tau [Mycoplasma pneumoniae]
+WP_009885609.1	WP_017532961	65.051	392	125	3	1	384	1	388	0.0	540
+# Query: WP_009885613.1 phosphate ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_010874966.1 phosphate import ATP-binding protein PstB [Mycoplasma pneumoniae]
+WP_009885613.1	WP_010874966	81.763	329	60	0	1	329	1	329	0.0	561
+# Query: WP_009885614.1 phosphate transport system regulatory protein PhoU [Mycoplasma genitalium]
+>WP_010874965.1 phosphate transport system regulatory protein [Mycoplasma pneumoniae]
+WP_009885614.1	WP_010874965	75.111	225	56	0	1	225	1	225	8.93e-123	355
+# Query: WP_009885616.1 enolase [Mycoplasma genitalium]
+>WP_010874963.1 enolase [Mycoplasma pneumoniae]
+WP_009885616.1	WP_010874963	79.730	444	90	0	11	454	11	454	0.0	719
+# Query: WP_009885617.1 hypothetical protein [Mycoplasma genitalium]
+# Query: WP_009885618.1 ATP synthase subunit A [Mycoplasma genitalium]
+>WP_053344109.1 ATP synthase F0F1 subunit A [Mycoplasma pneumoniae]
+WP_009885618.1	WP_053344109	71.233	292	84	0	1	292	1	292	9.76e-155	442
+# Query: WP_009885619.1 ATP synthase subunit C [Mycoplasma genitalium]
+>WP_010874960.1 ATP synthase subunit C [Mycoplasma pneumoniae]
+WP_009885619.1	WP_010874960	74.528	106	22	2	1	102	1	105	8.03e-48	156
+# Query: WP_009885620.1 ATP synthase subunit B [Mycoplasma genitalium]
+>WP_010874959.1 ATP synthase subunit B [Mycoplasma pneumoniae]
+WP_009885620.1	WP_010874959	72.500	200	55	0	8	207	8	207	3.36e-80	246
+# Query: WP_009885621.1 ATP synthase subunit delta [Mycoplasma genitalium]
+>WP_010874958.1 ATP synthase subunit delta [Mycoplasma pneumoniae]
+WP_009885621.1	WP_010874958	72.571	175	48	0	1	175	1	175	4.27e-91	271
+# Query: WP_009885622.1 ATP synthase subunit alpha [Mycoplasma genitalium]
+>WP_010874957.1 ATP synthase subunit alpha [Mycoplasma pneumoniae]
+WP_009885622.1	WP_010874957	86.460	517	70	0	1	517	1	517	0.0	944
+# Query: WP_009885623.1 ATP synthase subunit gamma [Mycoplasma genitalium]
+>WP_010874956.1 ATP synthase subunit gamma [Mycoplasma pneumoniae]
+WP_009885623.1	WP_010874956	73.606	269	71	0	1	269	1	269	2.38e-147	422
+# Query: WP_009885626.1 ribose 5-phosphate isomerase B [Mycoplasma genitalium]
+>WP_010874952.1 ribose 5-phosphate isomerase B [Mycoplasma pneumoniae]
+WP_009885626.1	WP_010874952	66.667	150	49	1	1	150	3	151	1.72e-69	214
+# Query: WP_009885627.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014575029.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885627.1	WP_014575029	33.696	92	61	0	2	93	6	97	1.18e-06	51.2
+# Query: WP_009885629.1 serine hydroxymethyltransferase [Mycoplasma genitalium]
+>WP_014325608.1 serine hydroxymethyltransferase [Mycoplasma pneumoniae]
+WP_009885629.1	WP_014325608	77.833	406	90	0	1	406	1	406	0.0	684
+# Query: WP_009885631.1 molecular chaperone GroEL [Mycoplasma genitalium]
+>WP_010874930.1 molecular chaperone GroEL [Mycoplasma pneumoniae]
+WP_009885631.1	WP_010874930	85.267	543	80	0	1	543	1	543	0.0	936
+# Query: WP_009885632.1 cytosol aminopeptidase [Mycoplasma genitalium]
+>WP_010874929.1 cytosol aminopeptidase [Mycoplasma pneumoniae]
+WP_009885632.1	WP_010874929	77.827	451	90	6	1	447	1	445	0.0	707
+# Query: WP_009885633.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874927.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885633.1	WP_010874927	62.791	129	46	2	1	127	1	129	1.57e-48	159
+# Query: WP_009885634.1 endoribonuclease YbeY [Mycoplasma genitalium]
+>WP_015344925.1 endoribonuclease YbeY [Mycoplasma pneumoniae]
+WP_009885634.1	WP_015344925	75.000	152	38	0	1	152	1	152	7.49e-80	241
+# Query: WP_009885637.1 oligopeptide transport ATP-binding protein OppF [Mycoplasma genitalium]
+>WP_017532950.1 peptide ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_009885637.1	WP_017532950	63.850	852	303	4	1	848	1	851	0.0	1097
+# Query: WP_009885638.1 50S ribosomal protein L11 [Mycoplasma genitalium]
+>WP_010874576.1 50S ribosomal protein L11 [Mycoplasma pneumoniae]
+WP_009885638.1	WP_010874576	88.321	137	16	0	1	137	1	137	6.43e-83	247
+# Query: WP_009885642.1 peptidyl-tRNA hydrolase [Mycoplasma genitalium]
+>WP_010874578.1 peptidyl-tRNA hydrolase [Mycoplasma pneumoniae]
+WP_009885642.1	WP_010874578	58.824	187	77	0	1	187	1	187	1.27e-75	233
+# Query: WP_009885643.1 diacylglyceryl transferase [Mycoplasma genitalium]
+>WP_010874581.1 diacylglyceryl transferase [Mycoplasma pneumoniae]
+WP_009885643.1	WP_010874581	74.413	383	96	1	2	382	7	389	0.0	565
+# Query: WP_009885645.1 30S ribosomal protein S7 [Mycoplasma genitalium]
+>WP_014325411.1 30S ribosomal protein S7 [Mycoplasma pneumoniae]
+WP_009885645.1	WP_014325411	86.452	155	21	0	1	155	1	155	6.99e-96	281
+# Query: WP_009885646.1 elongation factor G [Mycoplasma genitalium]
+>WP_010874584.1 elongation factor G [Mycoplasma pneumoniae]
+WP_009885646.1	WP_010874584	90.552	688	65	0	1	688	1	688	0.0	1290
+# Query: WP_009885647.1 30S ribosomal protein S6 [Mycoplasma genitalium]
+>WP_010874585.1 30S ribosomal protein S6 [Mycoplasma pneumoniae]
+WP_009885647.1	WP_010874585	70.166	181	54	0	1	181	1	181	2.66e-89	269
+# Query: WP_009885648.1 30S ribosomal protein S18 [Mycoplasma genitalium]
+>WP_010874587.1 30S ribosomal protein S18 [Mycoplasma pneumoniae]
+WP_009885648.1	WP_010874587	72.115	104	29	0	1	104	1	104	6.43e-45	149
+# Query: WP_009885649.1 50S ribosomal protein L9 [Mycoplasma genitalium]
+>WP_010874588.1 50S ribosomal protein L9 [Mycoplasma pneumoniae]
+WP_009885649.1	WP_010874588	70.068	147	44	0	1	147	1	147	2.69e-70	216
+# Query: WP_009885652.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874590.1 lipoprotein [Mycoplasma pneumoniae]
+WP_009885652.1	WP_010874590	49.664	447	169	8	1	393	1	445	4.80e-132	394
+# Query: WP_009885655.1 aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C [Mycoplasma genitalium]
+>WP_017532948.1 aspartyl/glutamyl-tRNA amidotransferase subunit C [Mycoplasma pneumoniae]
+WP_009885655.1	WP_017532948	72.222	468	130	0	10	477	12	479	0.0	642
+# Query: WP_009885658.1 aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B [Mycoplasma genitalium]
+>WP_010874595.1 aspartyl/glutamyl-tRNA amidotransferase subunit B [Mycoplasma pneumoniae]
+WP_009885658.1	WP_010874595	72.537	477	131	0	1	477	2	478	0.0	691
+# Query: WP_009885659.1 GntR family transcriptional regulator [Mycoplasma genitalium]
+>WP_010874596.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885659.1	WP_010874596	63.014	219	81	0	4	222	4	222	9.01e-97	289
+# Query: WP_009885660.1 thioredoxin reductase [Mycoplasma genitalium]
+>WP_010874597.1 thioredoxin reductase [Mycoplasma pneumoniae]
+WP_009885660.1	WP_010874597	69.968	313	94	0	1	313	1	313	6.35e-147	424
+# Query: WP_009885662.1 ribonuclease R [Mycoplasma genitalium]
+>WP_010874600.1 ribonuclease R [Mycoplasma pneumoniae]
+WP_009885662.1	WP_010874600	74.793	726	182	1	1	725	1	726	0.0	1164
+# Query: WP_009885663.1 TIGR00159 family protein [Mycoplasma genitalium]
+>WP_010874601.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885663.1	WP_010874601	80.925	173	32	1	28	200	29	200	2.13e-98	291
+# Query: WP_009885664.1 peptide deformylase [Mycoplasma genitalium]
+>WP_010874602.1 peptide deformylase [Mycoplasma pneumoniae]
+WP_009885664.1	WP_010874602	70.312	192	57	0	1	192	24	215	1.05e-97	290
+# Query: WP_009885665.1 guanylate kinase [Mycoplasma genitalium]
+>WP_014574918.1 guanylate kinase [Mycoplasma pneumoniae]
+WP_009885665.1	WP_014574918	75.000	188	47	0	1	188	1	188	1.25e-97	289
+# Query: WP_009885667.1 serine/threonine protein kinase [Mycoplasma genitalium]
+>WP_014325417.1 protein kinase [Mycoplasma pneumoniae]
+WP_009885667.1	WP_014325417	70.899	378	110	0	5	382	5	382	0.0	577
+# Query: WP_009885669.1 ribulose-phosphate 3-epimerase [Mycoplasma genitalium]
+>WP_010874608.1 ribulose-phosphate 3-epimerase [Mycoplasma pneumoniae]
+WP_009885669.1	WP_010874608	65.865	208	65	2	4	208	9	213	1.48e-89	270
+# Query: WP_009885670.1 asparagine--tRNA ligase [Mycoplasma genitalium]
+>WP_014325419.1 asparagine--tRNA ligase [Mycoplasma pneumoniae]
+WP_009885670.1	WP_014325419	69.518	456	138	1	1	456	1	455	0.0	692
+# Query: WP_009885673.1 amidohydrolase [Mycoplasma genitalium]
+>WP_014325421.1 hypothetical protein, partial [Mycoplasma pneumoniae]
+WP_009885673.1	WP_014325421	53.503	157	73	0	1	157	1	157	3.07e-58	186
+# Query: WP_009885675.1 sugar ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_010874615.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_009885675.1	WP_010874615	70.105	572	163	1	1	564	1	572	0.0	821
+# Query: WP_009885676.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325424.1 ABC transporter permease [Mycoplasma pneumoniae]
+WP_009885676.1	WP_014325424	63.934	488	175	1	2	489	27	513	0.0	644
+# Query: WP_009885677.1 ABC transporter permease [Mycoplasma genitalium]
+>WP_010874617.1 ABC transporter permease [Mycoplasma pneumoniae]
+WP_009885677.1	WP_010874617	68.182	308	95	2	1	306	5	311	3.37e-135	394
+# Query: WP_009885678.1 DNA topoisomerase 1 [Mycoplasma genitalium]
+>WP_010874618.1 DNA topoisomerase 1 [Mycoplasma pneumoniae]
+WP_009885678.1	WP_010874618	71.429	714	192	4	1	705	1	711	0.0	1047
+# Query: WP_009885680.1 tryptophan--tRNA ligase [Mycoplasma genitalium]
+>WP_014325428.1 tryptophan--tRNA ligase [Mycoplasma pneumoniae]
+WP_009885680.1	WP_014325428	68.713	342	107	0	1	342	1	342	5.73e-172	489
+# Query: WP_009885682.1 NAD(+) kinase [Mycoplasma genitalium]
+>WP_010874624.1 NAD(+) kinase [Mycoplasma pneumoniae]
+WP_009885682.1	WP_010874624	73.359	259	69	0	1	259	1	259	4.56e-139	399
+# Query: WP_009885683.1 PTS sugar transporter subunit IIB [Mycoplasma genitalium]
+>WP_010874625.1 PTS transporter subunit IIBC [Mycoplasma pneumoniae]
+WP_009885683.1	WP_010874625	61.538	117	45	0	1	117	1	117	6.17e-49	160
+# Query: WP_009885688.1 HIT family protein [Mycoplasma genitalium]
+>WP_014325433.1 HIT family protein [Mycoplasma pneumoniae]
+WP_009885688.1	WP_014325433	68.657	134	42	0	5	138	8	141	2.94e-67	208
+# Query: WP_009885689.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874631.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885689.1	WP_010874631	64.231	260	93	0	2	261	1	260	5.46e-116	341
+# Query: WP_009885692.1 lysine--tRNA ligase [Mycoplasma genitalium]
+>WP_010874634.1 lysine--tRNA ligase [Mycoplasma pneumoniae]
+WP_009885692.1	WP_010874634	74.082	490	126	1	1	490	1	489	0.0	771
+# Query: WP_009885693.1 UDP-galactopyranose mutase [Mycoplasma genitalium]
+>WP_014574928.1 UDP-galactopyranose mutase [Mycoplasma pneumoniae]
+WP_009885693.1	WP_014574928	61.183	389	150	1	1	388	1	389	4.48e-175	501
+# Query: WP_009885694.1 ribonuclease J [Mycoplasma genitalium]
+>WP_010874637.1 ribonuclease J [Mycoplasma pneumoniae]
+WP_009885694.1	WP_010874637	88.225	569	67	0	1	569	1	569	0.0	1040
+# Query: WP_009885697.1 glycerol uptake facilitator protein [Mycoplasma genitalium]
+>WP_015344865.1 MIP channel, glycerol diffusion [Mycoplasma pneumoniae]
+WP_009885697.1	WP_015344865	52.362	254	112	1	7	251	8	261	3.66e-85	263
+# Query: WP_009885698.1 thymidine kinase [Mycoplasma genitalium]
+>WP_014325306.1 thymidine kinase [Mycoplasma pneumoniae]
+WP_009885698.1	WP_014325306	69.082	207	61	2	1	207	1	204	3.39e-98	292
+# Query: WP_009885699.1 histidine--tRNA ligase [Mycoplasma genitalium]
+>WP_010874402.1 histidine--tRNA ligase [Mycoplasma pneumoniae]
+WP_009885699.1	WP_010874402	60.386	414	164	0	1	414	1	414	0.0	528
+# Query: WP_009885700.1 aspartate--tRNA ligase [Mycoplasma genitalium]
+>WP_010874403.1 aspartate--tRNA(Asp/Asn) ligase [Mycoplasma pneumoniae]
+WP_009885700.1	WP_010874403	69.300	557	170	1	1	556	1	557	0.0	831
+# Query: WP_009885703.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874409.1 lipoprotein [Mycoplasma pneumoniae]
+WP_009885703.1	WP_010874409	58.709	666	187	12	5	591	1	657	0.0	708
+# Query: WP_009885706.1 spermidine/putrescine ABC transporter permease [Mycoplasma genitalium]
+>WP_014325313.1 spermidine/putrescine ABC transporter permease [Mycoplasma pneumoniae]
+WP_009885706.1	WP_014325313	79.078	282	59	0	3	284	5	286	7.96e-163	461
+# Query: WP_009885708.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Mycoplasma genitalium]
+>WP_010874416.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD [Mycoplasma pneumoniae]
+WP_009885708.1	WP_010874416	72.100	319	85	1	1	315	1	319	3.12e-175	495
+# Query: WP_009885709.1 S-adenosylmethionine synthase [Mycoplasma genitalium]
+>WP_010874417.1 S-adenosylmethionine synthase [Mycoplasma pneumoniae]
+WP_009885709.1	WP_010874417	71.540	383	109	0	1	383	1	383	0.0	585
+# Query: WP_009885710.1 hypothetical protein [Mycoplasma genitalium]
+>XP_016586787.1 MFS monocarboxylate transporter [Sporothrix schenckii 1099-18]
+WP_009885710.1	XP_016586787	33.333	57	26	1	20	76	264	308	0.27	38.5
+# Query: WP_009885712.1 purine-nucleoside phosphorylase [Mycoplasma genitalium]
+>WP_017532941.1 purine-nucleoside phosphorylase [Mycoplasma pneumoniae]
+WP_009885712.1	WP_017532941	76.050	238	57	0	1	238	1	238	4.90e-136	390
+# Query: WP_009885713.1 thymidine phosphorylase [Mycoplasma genitalium]
+>WP_010874421.1 thymidine phosphorylase [Mycoplasma pneumoniae]
+WP_009885713.1	WP_010874421	67.458	421	137	0	1	421	1	421	0.0	588
+# Query: WP_009885715.1 phosphomannomutase [Mycoplasma genitalium]
+>WP_010874423.1 phosphomannomutase [Mycoplasma pneumoniae]
+WP_009885715.1	WP_010874423	61.636	550	204	5	6	550	7	554	0.0	691
+# Query: WP_009885716.1 transcription termination/antitermination protein NusG [Mycoplasma genitalium]
+>WP_014325320.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885716.1	WP_014325320	73.438	320	78	3	1	316	1	317	2.72e-172	488
+# Query: WP_009885719.1 50S ribosomal protein L33 [Mycoplasma genitalium]
+>WP_010874426.1 50S ribosomal protein L33 [Mycoplasma pneumoniae]
+WP_009885719.1	WP_010874426	87.500	48	6	0	1	48	1	48	2.34e-22	87.8
+# Query: WP_009885720.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874427.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885720.1	WP_010874427	63.780	127	46	0	1	127	1	127	3.39e-48	159
+# Query: WP_009885721.1 rRNA (cytidine-2'-O-)-methyltransferase [Mycoplasma genitalium]
+>WP_019830475.1 rRNA (cytidine-2'-O-)-methyltransferase [Mycoplasma pneumoniae]
+WP_009885721.1	WP_019830475	62.319	276	103	1	1	276	1	275	3.75e-123	360
+# Query: WP_009885722.1 ribonuclease M5 [Mycoplasma genitalium]
+>WP_010874429.1 ribonuclease M5 [Mycoplasma pneumoniae]
+WP_009885722.1	WP_010874429	60.112	178	71	0	1	178	1	178	1.05e-69	217
+# Query: WP_009885723.1 ribose-phosphate pyrophosphokinase [Mycoplasma genitalium]
+>WP_015344868.1 ribose-phosphate pyrophosphokinase [Mycoplasma pneumoniae]
+WP_009885723.1	WP_015344868	78.049	328	72	0	5	332	1	328	0.0	543
+# Query: WP_009885724.1 SsrA-binding protein [Mycoplasma genitalium]
+>WP_010874431.1 SsrA-binding protein [Mycoplasma pneumoniae]
+WP_009885724.1	WP_010874431	65.972	144	49	0	1	144	1	144	2.48e-67	209
+# Query: WP_009885728.1 hypothetical protein [Mycoplasma genitalium]
+# Query: WP_009885730.1 hypothetical protein [Mycoplasma genitalium]
+>WP_017532939.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885730.1	WP_017532939	56.538	520	204	8	1	503	13	527	0.0	570
+# Query: WP_009885731.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014574866.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885731.1	WP_014574866	49.704	507	205	11	1	463	1	501	1.45e-154	457
+# Query: WP_009885732.1 hypothetical protein [Mycoplasma genitalium]
+# Query: WP_009885733.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874447.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885733.1	WP_010874447	30.612	343	194	13	2	326	8	324	6.43e-21	100
+# Query: WP_009885736.1 phenylalanine--tRNA ligase subunit beta [Mycoplasma genitalium]
+>WP_010874463.1 phenylalanine--tRNA ligase subunit beta [Mycoplasma pneumoniae]
+WP_009885736.1	WP_010874463	59.057	806	329	1	1	806	1	805	0.0	996
+# Query: WP_009885737.1 translation initiation factor IF-3 [Mycoplasma genitalium]
+>WP_053344094.1 translation initiation factor IF-3 [Mycoplasma pneumoniae]
+WP_009885737.1	WP_053344094	75.956	183	42	1	1	181	19	201	1.95e-97	288
+# Query: WP_009885738.1 50S ribosomal protein L35 [Mycoplasma genitalium]
+>WP_010874473.1 50S ribosomal protein L35 [Mycoplasma pneumoniae]
+WP_009885738.1	WP_010874473	86.441	59	8	0	1	59	1	59	9.53e-27	99.8
+# Query: WP_009885739.1 50S ribosomal protein L20 [Mycoplasma genitalium]
+>WP_010874474.1 50S ribosomal protein L20 [Mycoplasma pneumoniae]
+WP_009885739.1	WP_010874474	76.423	123	27	1	1	123	1	121	2.06e-59	187
+# Query: WP_009885740.1 ribonuclease HIII [Mycoplasma genitalium]
+>WP_010874475.1 ribonuclease HII [Mycoplasma pneumoniae]
+WP_009885740.1	WP_010874475	49.576	236	117	1	1	234	1	236	1.37e-64	208
+# Query: WP_009885741.1 nucleotide exchange factor GrpE [Mycoplasma genitalium]
+>WP_010874477.1 nucleotide exchange factor GrpE [Mycoplasma pneumoniae]
+WP_009885741.1	WP_010874477	73.023	215	58	0	1	215	1	215	8.30e-107	314
+# Query: WP_009885743.1 HrcA family transcriptional regulator [Mycoplasma genitalium]
+>WP_010874481.1 HrcA family transcriptional regulator [Mycoplasma pneumoniae]
+WP_009885743.1	WP_010874481	79.651	344	67	2	1	341	1	344	0.0	572
+# Query: WP_009885744.1 metallophosphatase [Mycoplasma genitalium]
+>WP_058129052.1 metallophosphatase [Mycoplasma pneumoniae]
+WP_009885744.1	WP_058129052	59.494	158	64	0	5	162	1	158	2.55e-69	215
+# Query: WP_009885745.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB [Mycoplasma genitalium]
+>WP_014325445.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB [Mycoplasma pneumoniae]
+WP_009885745.1	WP_014325445	66.327	196	66	0	1	196	1	196	5.56e-96	285
+# Query: WP_009885746.1 RNA pseudouridine synthase [Mycoplasma genitalium]
+>WP_054175482.1 pseudouridine synthase [Mycoplasma pneumoniae]
+WP_009885746.1	WP_054175482	59.871	309	123	1	1	308	1	309	6.75e-128	375
+# Query: WP_009885747.1 signal peptidase II [Mycoplasma genitalium]
+>WP_010874650.1 signal peptidase II [Mycoplasma pneumoniae]
+WP_009885747.1	WP_010874650	68.132	182	53	1	4	180	3	184	1.96e-77	237
+# Query: WP_009885748.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874652.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885748.1	WP_010874652	69.585	217	62	2	1	214	1	216	4.11e-104	308
+# Query: WP_009885749.1 30S ribosomal protein S21 [Mycoplasma genitalium]
+>WP_010874653.1 30S ribosomal protein S21 [Mycoplasma pneumoniae]
+WP_009885749.1	WP_010874653	90.000	60	6	0	1	60	1	60	1.57e-30	109
+# Query: WP_009885750.1 DivIVA domain-containing protein [Mycoplasma genitalium]
+>WP_010874654.1 DivIVA domain-containing protein [Mycoplasma pneumoniae]
+WP_009885750.1	WP_010874654	64.430	149	51	1	1	147	1	149	2.28e-62	196
+# Query: WP_009885751.1 holo-ACP synthase [Mycoplasma genitalium]
+>WP_019830439.1 holo-ACP synthase [Mycoplasma pneumoniae]
+WP_009885751.1	WP_019830439	58.772	114	45	2	1	112	1	114	1.93e-39	135
+# Query: WP_009885752.1 1-acyl-sn-glycerol-3-phosphate acyltransferase [Mycoplasma genitalium]
+>WP_053344004.1 1-acyl-sn-glycerol-3-phosphate acyltransferase [Mycoplasma pneumoniae]
+WP_009885752.1	WP_053344004	67.176	262	86	0	1	262	1	262	3.89e-116	342
+# Query: WP_009885754.1 segregation/condensation protein B [Mycoplasma genitalium]
+>WP_010874658.1 segregation/condensation protein B [Mycoplasma pneumoniae]
+WP_009885754.1	WP_010874658	73.077	208	55	1	1	207	1	208	1.43e-106	313
+# Query: WP_009885755.1 pyruvate kinase [Mycoplasma genitalium]
+>WP_010874660.1 pyruvate kinase [Mycoplasma pneumoniae]
+WP_009885755.1	WP_010874660	78.150	508	111	0	1	508	1	508	0.0	825
+# Query: WP_009885758.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874669.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885758.1	WP_010874669	51.648	91	43	1	1	91	1	90	6.98e-22	89.7
+# Query: WP_009885760.1 ribosomal RNA small subunit methyltransferase H [Mycoplasma genitalium]
+>WP_014325456.1 16S rRNA (cytosine(1402)-N(4))-methyltransferase [Mycoplasma pneumoniae]
+WP_009885760.1	WP_014325456	65.260	308	106	1	1	308	1	307	1.44e-142	412
+# Query: WP_009885765.1 dihydrofolate reductase [Mycoplasma genitalium]
+>WP_010874677.1 dihydrofolate reductase [Mycoplasma pneumoniae]
+WP_009885765.1	WP_010874677	52.229	157	75	0	1	157	1	157	2.59e-53	174
+# Query: WP_009885766.1 ribonucleoside-diphosphate reductase subunit beta [Mycoplasma genitalium]
+>WP_010874678.1 ribonucleoside-diphosphate reductase subunit beta [Mycoplasma pneumoniae]
+WP_009885766.1	WP_010874678	89.645	338	35	0	3	340	2	339	0.0	634
+# Query: WP_009885768.1 ribonucleoside-diphosphate reductase subunit alpha [Mycoplasma genitalium]
+>WP_010874680.1 ribonucleoside-diphosphate reductase subunit alpha [Mycoplasma pneumoniae]
+WP_009885768.1	WP_010874680	87.240	721	92	0	1	721	1	721	0.0	1330
+# Query: WP_009885769.1 50S ribosomal protein L21 [Mycoplasma genitalium]
+>WP_010874681.1 50S ribosomal protein L21 [Mycoplasma pneumoniae]
+WP_009885769.1	WP_010874681	82.000	100	18	0	1	100	1	100	6.69e-55	174
+# Query: WP_009885770.1 hypothetical protein [Mycoplasma genitalium]
+>WP_058158216.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885770.1	WP_058158216	49.495	99	50	0	1	99	1	99	7.95e-30	110
+# Query: WP_009885771.1 50S ribosomal protein L27 [Mycoplasma genitalium]
+>WP_010874683.1 50S ribosomal protein L27 [Mycoplasma pneumoniae]
+WP_009885771.1	WP_010874683	72.115	104	29	0	1	104	1	104	9.28e-51	163
+# Query: WP_009885772.1 endonuclease [Mycoplasma genitalium]
+>WP_054175916.1 endonuclease IV [Mycoplasma pneumoniae]
+WP_009885772.1	WP_054175916	66.078	283	96	0	1	283	1	283	3.79e-140	404
+# Query: WP_009885773.1 transcriptional repressor [Mycoplasma genitalium]
+>WP_010874685.1 ferric uptake regulator [Mycoplasma pneumoniae]
+WP_009885773.1	WP_010874685	56.835	139	60	0	2	140	19	157	2.32e-53	173
+# Query: WP_009885774.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874686.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885774.1	WP_010874686	64.626	294	104	0	1	294	1	294	2.13e-134	390
+# Query: WP_009885775.1 trigger factor [Mycoplasma genitalium]
+>WP_014325463.1 trigger factor [Mycoplasma pneumoniae]
+WP_009885775.1	WP_014325463	62.838	444	165	0	1	444	1	444	0.0	596
+# Query: WP_009885776.1 Lon protease [Mycoplasma genitalium]
+>WP_054174991.1 endopeptidase La [Mycoplasma pneumoniae]
+WP_009885776.1	WP_054174991	78.365	795	172	0	1	795	1	795	0.0	1271
+# Query: WP_009885782.1 5-formyltetrahydrofolate cyclo-ligase [Mycoplasma genitalium]
+>WP_010874704.1 5-formyltetrahydrofolate cyclo-ligase [Mycoplasma pneumoniae]
+WP_009885782.1	WP_010874704	60.248	161	64	0	2	162	1	161	2.89e-65	205
+# Query: WP_009885785.1 glycerol-3-phosphate acyltransferase [Mycoplasma genitalium]
+>WP_010874706.1 glycerol-3-phosphate acyltransferase [Mycoplasma pneumoniae]
+WP_009885785.1	WP_010874706	71.967	239	67	0	1	239	1	239	2.10e-126	365
+# Query: WP_009885786.1 tRNA (adenine-N1)-methyltransferase [Mycoplasma genitalium]
+>WP_014325478.1 tRNA (adenine-N1)-methyltransferase [Mycoplasma pneumoniae]
+WP_009885786.1	WP_014325478	54.338	219	99	1	1	218	1	219	1.23e-77	240
+# Query: WP_009885787.1 RNA polymerase sigma factor SigA [Mycoplasma genitalium]
+>WP_010874708.1 RNA polymerase sigma factor SigA [Mycoplasma pneumoniae]
+WP_009885787.1	WP_010874708	87.400	500	59	2	1	497	1	499	0.0	854
+# Query: WP_009885788.1 DNA primase [Mycoplasma genitalium]
+>WP_014325479.1 DNA primase [Mycoplasma pneumoniae]
+WP_009885788.1	WP_014325479	45.907	623	309	5	2	604	1	615	0.0	546
+# Query: WP_009885791.1 DNA ligase (NAD(+)) LigA [Mycoplasma genitalium]
+>WP_010874713.1 DNA ligase (NAD(+)) LigA [Mycoplasma pneumoniae]
+WP_009885791.1	WP_010874713	66.309	653	220	0	6	658	6	658	0.0	889
+# Query: WP_009885793.1 peptide chain release factor 1 [Mycoplasma genitalium]
+>WP_014325485.1 peptide chain release factor 1 [Mycoplasma pneumoniae]
+WP_009885793.1	WP_014325485	81.337	359	67	0	1	359	1	359	0.0	626
+# Query: WP_009885794.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874718.1 HemK family methylase [Mycoplasma pneumoniae]
+WP_009885794.1	WP_010874718	54.185	454	205	2	1	454	1	451	3.24e-177	512
+# Query: WP_009885795.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874862.1 lipoprotein [Mycoplasma pneumoniae]
+WP_009885795.1	WP_010874862	50.181	827	310	13	1	761	1	791	0.0	756
+# Query: WP_009885798.1 DNA-directed RNA polymerase subunit beta [Mycoplasma genitalium]
+>WP_014325577.1 DNA-directed RNA polymerase subunit beta [Mycoplasma pneumoniae]
+WP_009885798.1	WP_014325577	85.909	1391	195	1	1	1390	1	1391	0.0	2493
+# Query: WP_009885799.1 NAD(P)H-dependent oxidoreductase [Mycoplasma genitalium]
+>WP_010874873.1 NAD(P)H-dependent oxidoreductase [Mycoplasma pneumoniae]
+WP_009885799.1	WP_010874873	73.006	163	44	0	6	168	4	166	2.58e-84	253
+# Query: WP_009885800.1 alpha/beta hydrolase [Mycoplasma genitalium]
+>WP_010874875.1 esterase [Mycoplasma pneumoniae]
+WP_009885800.1	WP_010874875	66.300	273	91	1	1	273	1	272	1.49e-122	358
+# Query: WP_009885804.1 tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL [Mycoplasma genitalium]
+>WP_010874877.1 tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL [Mycoplasma pneumoniae]
+WP_009885804.1	WP_010874877	79.518	166	34	0	1	166	1	166	4.22e-98	288
+# Query: WP_009885805.1 tRNA (guanine-N(7)-)-methyltransferase [Mycoplasma genitalium]
+>WP_014325580.1 tRNA (guanine-N(7)-)-methyltransferase [Mycoplasma pneumoniae]
+WP_009885805.1	WP_014325580	56.459	209	91	0	1	209	1	209	2.34e-80	246
+# Query: WP_009885806.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325581.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885806.1	WP_014325581	59.692	325	108	3	1	322	1	305	7.05e-127	373
+# Query: WP_009885807.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874881.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885807.1	WP_010874881	65.217	368	127	1	1	368	1	367	1.06e-173	498
+# Query: WP_009885808.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325584.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885808.1	WP_014325584	64.253	221	79	0	1	221	1	221	1.31e-84	258
+# Query: WP_009885809.1 inorganic pyrophosphatase [Mycoplasma genitalium]
+>WP_010874884.1 inorganic pyrophosphatase [Mycoplasma pneumoniae]
+WP_009885809.1	WP_010874884	82.065	184	33	0	1	184	1	184	1.21e-109	318
+# Query: WP_009885810.1 Holliday junction DNA helicase RecU [Mycoplasma genitalium]
+>WP_010874885.1 DNA recombination protein [Mycoplasma pneumoniae]
+WP_009885810.1	WP_010874885	68.452	168	48	3	1	163	1	168	8.42e-80	242
+# Query: WP_009885811.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874886.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885811.1	WP_010874886	91.743	109	9	0	1	109	1	109	2.46e-67	206
+# Query: WP_009885812.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874887.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885812.1	WP_010874887	68.613	137	42	1	1	137	1	136	3.56e-64	200
+# Query: WP_009885813.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325587.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885813.1	WP_014325587	75.451	277	68	0	1	277	1	277	5.04e-154	439
+# Query: WP_009885814.1 acetate kinase [Mycoplasma genitalium]
+>WP_014325588.1 acetate kinase [Mycoplasma pneumoniae]
+WP_009885814.1	WP_014325588	75.515	388	95	0	1	388	1	388	0.0	620
+# Query: WP_009885815.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874891.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885815.1	WP_010874891	55.797	138	61	0	1	138	1	138	1.32e-50	166
+# Query: WP_009885816.1 Holliday junction branch migration DNA helicase RuvB [Mycoplasma genitalium]
+>WP_014325589.1 Holliday junction DNA helicase RuvB [Mycoplasma pneumoniae]
+WP_009885816.1	WP_014325589	83.660	306	50	0	1	306	1	306	0.0	528
+# Query: WP_009885818.1 50S ribosomal protein L10 [Mycoplasma genitalium]
+>WP_010874895.1 50S ribosomal protein L10 [Mycoplasma pneumoniae]
+WP_009885818.1	WP_010874895	74.534	161	41	0	2	162	1	161	3.58e-84	252
+# Query: WP_009885819.1 50S ribosomal protein L7/L12 [Mycoplasma genitalium]
+>WP_014325591.1 50S ribosomal protein L7/L12 [Mycoplasma pneumoniae]
+WP_009885819.1	WP_014325591	91.803	122	10	0	1	122	1	122	2.21e-72	219
+# Query: WP_009885820.1 50S ribosomal protein L32 [Mycoplasma genitalium]
+>WP_014325592.1 50S ribosomal protein L32 [Mycoplasma pneumoniae]
+WP_009885820.1	WP_014325592	91.228	57	5	0	1	57	1	57	4.46e-29	105
+# Query: WP_009885821.1 30S ribosomal protein S20 [Mycoplasma genitalium]
+>WP_014325593.1 30S ribosomal protein S20 [Mycoplasma pneumoniae]
+WP_009885821.1	WP_014325593	78.161	87	19	0	1	87	1	87	1.45e-38	131
+# Query: WP_009885823.1 ribonuclease III [Mycoplasma genitalium]
+>WP_010874902.1 ribonuclease 3 [Mycoplasma pneumoniae]
+WP_009885823.1	WP_010874902	70.498	261	77	0	10	270	1	261	6.64e-134	387
+# Query: WP_009885824.1 phosphate acyltransferase [Mycoplasma genitalium]
+>WP_014325596.1 phosphate acyltransferase PlsX [Mycoplasma pneumoniae]
+WP_009885824.1	WP_014325596	82.622	328	57	0	1	328	1	328	0.0	565
+# Query: WP_009885827.1 transcription termination/antitermination protein NusA [Mycoplasma genitalium]
+>WP_054173841.1 transcription termination/antitermination protein NusA [Mycoplasma pneumoniae]
+WP_009885827.1	WP_054173841	64.860	535	158	3	27	531	6	540	0.0	694
+# Query: WP_009885828.1 hypothetical protein [Mycoplasma genitalium]
+>WP_015344887.1 nucleic acid-binding protein [Mycoplasma pneumoniae]
+WP_009885828.1	WP_015344887	57.143	84	36	0	6	89	5	88	1.33e-23	94.0
+# Query: WP_009885829.1 ribosome-binding factor A [Mycoplasma genitalium]
+>WP_010874513.1 ribosome-binding factor A [Mycoplasma pneumoniae]
+WP_009885829.1	WP_010874513	70.270	111	33	0	1	111	1	111	7.03e-52	167
+# Query: WP_009885830.1 hypothetical protein [Mycoplasma genitalium]
+>WP_017532913.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885830.1	WP_017532913	55.000	200	82	3	86	279	205	402	2.33e-66	220
+# Query: WP_009885831.1 FMN adenylyltransferase [Mycoplasma genitalium]
+>WP_010874515.1 bifunctional riboflavin kinase/FMN adenylyltransferase [Mycoplasma pneumoniae]
+WP_009885831.1	WP_010874515	43.511	262	146	1	2	261	3	264	1.32e-76	241
+# Query: WP_009885835.1 30S ribosomal protein S10 [Mycoplasma genitalium]
+>WP_010874521.1 30S ribosomal protein S10 [Mycoplasma pneumoniae]
+WP_009885835.1	WP_010874521	91.667	108	7	1	1	106	1	108	2.00e-62	193
+# Query: WP_009885836.1 50S ribosomal protein L4 [Mycoplasma genitalium]
+>WP_010874523.1 50S ribosomal protein L4 [Mycoplasma pneumoniae]
+WP_009885836.1	WP_010874523	57.075	212	90	1	1	211	1	212	4.07e-80	246
+# Query: WP_009885837.1 50S ribosomal protein L23 [Mycoplasma genitalium]
+>WP_010874524.1 50S ribosomal protein L23 [Mycoplasma pneumoniae]
+WP_009885837.1	WP_010874524	76.042	96	23	0	1	96	1	96	3.73e-48	161
+# Query: WP_009885838.1 50S ribosomal protein L2 [Mycoplasma genitalium]
+>WP_010874525.1 50S ribosomal protein L2 [Mycoplasma pneumoniae]
+WP_009885838.1	WP_010874525	87.108	287	35	1	1	285	1	287	0.0	516
+# Query: WP_009885839.1 30S ribosomal protein S19 [Mycoplasma genitalium]
+>WP_010874526.1 30S ribosomal protein S19 [Mycoplasma pneumoniae]
+WP_009885839.1	WP_010874526	94.253	87	5	0	1	87	1	87	1.40e-55	174
+# Query: WP_009885840.1 50S ribosomal protein L22 [Mycoplasma genitalium]
+>WP_015344888.1 50S ribosomal protein L22 [Mycoplasma pneumoniae]
+WP_009885840.1	WP_015344888	78.723	141	29	1	1	140	1	141	9.26e-74	225
+# Query: WP_009885841.1 30S ribosomal protein S3 [Mycoplasma genitalium]
+>WP_010874528.1 30S ribosomal protein S3 [Mycoplasma pneumoniae]
+WP_009885841.1	WP_010874528	80.669	269	48	1	1	265	1	269	1.58e-156	444
+# Query: WP_009885842.1 50S ribosomal protein L16 [Mycoplasma genitalium]
+>WP_010874529.1 50S ribosomal protein L16 [Mycoplasma pneumoniae]
+WP_009885842.1	WP_010874529	92.754	138	10	0	1	138	1	138	2.09e-91	269
+# Query: WP_009885843.1 50S ribosomal protein L29 [Mycoplasma genitalium]
+>WP_052270432.1 50S ribosomal protein L29 [Mycoplasma penetrans]
+WP_009885843.1	WP_052270432	32.178	202	113	8	5	191	3	195	4.62e-09	63.5
+# Query: WP_009885844.1 30S ribosomal protein S17 [Mycoplasma genitalium]
+>WP_010874531.1 30S ribosomal protein S17 [Mycoplasma pneumoniae]
+WP_009885844.1	WP_010874531	80.000	85	17	0	1	85	1	85	3.74e-42	140
+# Query: WP_009885845.1 50S ribosomal protein L14 [Mycoplasma genitalium]
+>WP_010874532.1 50S ribosomal protein L14 [Mycoplasma pneumoniae]
+WP_009885845.1	WP_010874532	95.082	122	6	0	1	122	1	122	3.20e-78	234
+# Query: WP_009885846.1 50S ribosomal protein L24 [Mycoplasma genitalium]
+>WP_010874533.1 50S ribosomal protein L24 [Mycoplasma pneumoniae]
+WP_009885846.1	WP_010874533	69.369	111	31	2	1	108	1	111	8.37e-43	144
+# Query: WP_009885847.1 50S ribosomal protein L5 [Mycoplasma genitalium]
+>WP_010874534.1 50S ribosomal protein L5 [Mycoplasma pneumoniae]
+WP_009885847.1	WP_010874534	83.030	165	28	0	1	165	1	165	1.19e-100	295
+# Query: WP_009885848.1 30S ribosomal protein S14 type Z [Mycoplasma genitalium]
+>WP_010874535.1 30S ribosomal protein S14 type Z [Mycoplasma pneumoniae]
+WP_009885848.1	WP_010874535	90.164	61	6	0	1	61	1	61	2.36e-31	111
+# Query: WP_009885853.1 50S ribosomal protein L18 [Mycoplasma genitalium]
+>WP_010874538.1 50S ribosomal protein L18 [Mycoplasma pneumoniae]
+WP_009885853.1	WP_010874538	78.070	114	25	0	2	115	3	116	2.65e-49	160
+# Query: WP_009885854.1 30S ribosomal protein S5 [Mycoplasma genitalium]
+>WP_010874539.1 30S ribosomal protein S5 [Mycoplasma pneumoniae]
+WP_009885854.1	WP_010874539	77.064	218	41	3	1	211	4	219	1.41e-111	326
+# Query: WP_009885855.1 protein translocase subunit SecY [Mycoplasma genitalium]
+>WP_015344889.1 preprotein translocase subunit SecY [Mycoplasma pneumoniae]
+WP_009885855.1	WP_015344889	86.966	468	61	0	8	475	10	477	0.0	765
+# Query: WP_009885856.1 adenylate kinase [Mycoplasma genitalium]
+>WP_014325392.1 adenylate kinase [Mycoplasma pneumoniae]
+WP_009885856.1	WP_014325392	45.024	211	114	1	6	214	3	213	1.53e-61	199
+# Query: WP_009885857.1 methionine aminopeptidase [Mycoplasma genitalium]
+>WP_010874543.1 methionine aminopeptidase [Mycoplasma pneumoniae]
+WP_009885857.1	WP_010874543	65.726	248	85	0	1	248	1	248	5.70e-121	352
+# Query: WP_009885858.1 translation initiation factor IF-1 [Mycoplasma genitalium]
+>WP_010874544.1 translation initiation factor IF-1 [Mycoplasma pneumoniae]
+WP_009885858.1	WP_010874544	84.058	69	11	0	2	70	10	78	6.73e-35	121
+# Query: WP_009885859.1 50S ribosomal protein L36 [Mycoplasma genitalium]
+>WP_010874545.1 50S ribosomal protein L36 [Mycoplasma pneumoniae]
+WP_009885859.1	WP_010874545	91.892	37	3	0	1	37	1	37	8.41e-15	68.2
+# Query: WP_009885860.1 30S ribosomal protein S13 [Mycoplasma genitalium]
+>WP_010874546.1 30S ribosomal protein S13 [Mycoplasma pneumoniae]
+WP_009885860.1	WP_010874546	88.710	124	14	0	1	124	1	124	5.37e-75	226
+# Query: WP_009885861.1 30S ribosomal protein S11 [Mycoplasma genitalium]
+>WP_010874547.1 30S ribosomal protein S11 [Mycoplasma pneumoniae]
+WP_009885861.1	WP_010874547	87.603	121	15	0	1	121	1	121	8.06e-74	223
+# Query: WP_009885862.1 DNA-directed RNA polymerase subunit alpha [Mycoplasma genitalium]
+>WP_014325393.1 DNA-directed RNA polymerase subunit alpha [Mycoplasma pneumoniae]
+WP_009885862.1	WP_014325393	87.805	328	39	1	1	328	1	327	0.0	594
+# Query: WP_009885864.1 energy-coupling factor transporter ATPase [Mycoplasma genitalium]
+>WP_010874550.1 energy-coupling factor transporter ATPase [Mycoplasma pneumoniae]
+WP_009885864.1	WP_010874550	79.562	274	55	1	1	273	1	274	8.58e-158	448
+# Query: WP_009885865.1 energy-coupling factor transporter ATP-binding protein EcfA2 [Mycoplasma genitalium]
+>WP_010874551.1 energy-coupling factor transporter ATP-binding protein EcfA2 [Mycoplasma pneumoniae]
+WP_009885865.1	WP_010874551	79.868	303	59	2	3	304	2	303	1.39e-175	495
+# Query: WP_009885866.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874552.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885866.1	WP_010874552	73.782	431	100	6	1	418	1	431	0.0	585
+# Query: WP_009885867.1 tRNA pseudouridine(38-40) synthase TruA [Mycoplasma genitalium]
+>WP_054175799.1 tRNA pseudouridine synthase A [Mycoplasma pneumoniae]
+WP_009885867.1	WP_054175799	58.848	243	100	0	1	243	1	243	2.27e-100	300
+# Query: WP_009885868.1 oligoendopeptidase F [Mycoplasma genitalium]
+>WP_014325394.1 oligoendopeptidase F [Mycoplasma pneumoniae]
+WP_009885868.1	WP_014325394	64.086	607	217	1	1	606	1	607	0.0	829
+# Query: WP_009885871.1 hypothetical protein [Mycoplasma genitalium]
+>WP_015344890.1 Lipoprotein 10 family-like protein [Mycoplasma pneumoniae]
+WP_009885871.1	WP_015344890	50.920	815	277	14	1	699	1	808	0.0	714
+# Query: WP_009885873.1 high affinity transport system protein p37 [Mycoplasma genitalium]
+>WP_014325521.1 DNA repair protein HhH-GPD [Mycoplasma pneumoniae]
+WP_009885873.1	WP_014325521	60.055	363	133	1	17	367	18	380	1.43e-158	458
+# Query: WP_009885876.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874779.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885876.1	WP_010874779	66.667	129	43	0	1	129	1	129	1.97e-59	187
+# Query: WP_009885877.1 signal recognition particle-docking protein FtsY [Mycoplasma genitalium]
+>WP_010874781.1 signal recognition particle-docking protein FtsY [Mycoplasma pneumoniae]
+WP_009885877.1	WP_010874781	71.098	346	100	0	1	346	1	346	0.0	525
+# Query: WP_009885878.1 phosphate acetyltransferase [Mycoplasma genitalium]
+>WP_014325527.1 phosphate acetyltransferase [Mycoplasma pneumoniae]
+WP_009885878.1	WP_014325527	78.438	320	69	0	1	320	1	320	0.0	535
+# Query: WP_009885879.1 aldehyde dehydrogenase [Mycoplasma genitalium]
+>WP_010874786.1 glyceraldehyde-3-phosphate dehydrogenase [Mycoplasma pneumoniae]
+WP_009885879.1	WP_010874786	82.196	337	60	0	1	337	1	337	0.0	592
+# Query: WP_009885882.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_010874789.1 cobalt ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_009885882.1	WP_010874789	68.889	270	84	0	1	270	1	270	1.16e-133	386
+# Query: WP_009885883.1 molecular chaperone DnaK [Mycoplasma genitalium]
+>WP_010874790.1 molecular chaperone DnaK [Mycoplasma pneumoniae]
+WP_009885883.1	WP_010874790	92.773	595	43	0	1	595	1	595	0.0	1118
+# Query: WP_009885887.1 hypothetical protein [Mycoplasma genitalium]
+>WP_054174937.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885887.1	WP_054174937	58.702	1310	430	15	1	1205	21	1324	0.0	1446
+# Query: WP_009885888.1 alpha/beta hydrolase [Mycoplasma genitalium]
+>WP_014574985.1 esterase [Mycoplasma pneumoniae]
+WP_009885888.1	WP_014574985	58.935	263	108	0	1	263	1	263	9.24e-117	343
+# Query: WP_009885889.1 30S ribosomal protein S4 [Mycoplasma genitalium]
+>WP_010874802.1 30S ribosomal protein S4 [Mycoplasma pneumoniae]
+WP_009885889.1	WP_010874802	87.805	205	25	0	1	205	1	205	1.07e-132	379
+# Query: WP_009885892.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874733.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885892.1	WP_010874733	75.676	74	17	1	1	74	1	73	4.93e-22	89.0
+# Query: WP_009885893.1 DNA polymerase III subunit alpha [Mycoplasma genitalium]
+>WP_058140845.1 DNA polymerase III subunit alpha [Mycoplasma pneumoniae]
+WP_009885893.1	WP_058140845	56.207	870	375	3	1	867	1	867	0.0	964
+# Query: WP_009885894.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874737.1 haloacid dehalogenase [Mycoplasma pneumoniae]
+WP_009885894.1	WP_010874737	66.096	292	98	1	1	291	1	292	1.11e-139	403
+# Query: WP_009885895.1 dephospho-CoA kinase [Mycoplasma genitalium]
+>WP_010874738.1 dephospho-CoA kinase [Mycoplasma pneumoniae]
+WP_009885895.1	WP_010874738	50.000	192	95	1	1	191	1	192	5.80e-64	204
+# Query: WP_009885896.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874739.1 haloacid dehalogenase [Mycoplasma pneumoniae]
+WP_009885896.1	WP_010874739	57.971	276	115	1	2	276	4	279	5.79e-111	330
+# Query: WP_009885898.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874741.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885898.1	WP_010874741	62.832	113	42	0	3	115	2	114	2.71e-46	153
+# Query: WP_009885899.1 deoxynucleoside kinase [Mycoplasma genitalium]
+>WP_010874742.1 deoxynucleoside kinase [Mycoplasma pneumoniae]
+WP_009885899.1	WP_010874742	65.625	224	77	0	5	228	6	229	2.27e-109	322
+# Query: WP_009885900.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874743.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885900.1	WP_010874743	48.485	363	159	4	1	340	1	358	1.70e-103	316
+# Query: WP_009885901.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325503.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885901.1	WP_014325503	48.438	128	66	0	1	128	1	128	4.28e-35	125
+# Query: WP_009885902.1 lipoate--protein ligase A [Mycoplasma genitalium]
+>WP_010874745.1 lipoate--protein ligase A [Mycoplasma pneumoniae]
+WP_009885902.1	WP_010874745	75.893	336	81	0	1	336	1	336	0.0	543
+# Query: WP_009885903.1 dihydrolipoyl dehydrogenase [Mycoplasma genitalium]
+>WP_054173234.1 dihydrolipoyl dehydrogenase [Mycoplasma pneumoniae]
+WP_009885903.1	WP_054173234	73.026	456	123	0	1	456	1	456	0.0	686
+# Query: WP_009885904.1 dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex [Mycoplasma genitalium]
+>WP_010874747.1 dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex [Mycoplasma pneumoniae]
+WP_009885904.1	WP_010874747	70.398	402	101	2	1	384	1	402	0.0	541
+# Query: WP_009885905.1 pyruvate dehydrogenase E1 component subunit beta [Mycoplasma genitalium]
+>WP_010874748.1 pyruvate dehydrogenase E1 component subunit beta [Mycoplasma pneumoniae]
+WP_009885905.1	WP_010874748	88.991	327	35	1	1	326	1	327	0.0	583
+# Query: WP_009885906.1 pyruvate dehydrogenase E1 component subunit alpha [Mycoplasma genitalium]
+>WP_010874749.1 pyruvate dehydrogenase E1 component subunit alpha [Mycoplasma pneumoniae]
+WP_009885906.1	WP_010874749	88.268	358	42	0	1	358	1	358	0.0	672
+# Query: WP_009885907.1 NADH oxidase [Mycoplasma genitalium]
+>WP_010874750.1 NADH oxidase [Mycoplasma pneumoniae]
+WP_009885907.1	WP_010874750	83.438	477	79	0	1	477	1	477	0.0	841
+# Query: WP_009885908.1 adenine phosphoribosyltransferase [Mycoplasma genitalium]
+>WP_054173295.1 adenine phosphoribosyltransferase [Mycoplasma pneumoniae]
+WP_009885908.1	WP_054173295	68.333	180	54	1	13	192	1	177	5.72e-86	259
+# Query: WP_009885909.1 guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [Mycoplasma genitalium]
+>WP_014325508.1 guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase [Mycoplasma pneumoniae]
+WP_009885909.1	WP_014325508	73.472	720	191	0	1	720	14	733	0.0	1102
+# Query: WP_009885910.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325510.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885910.1	WP_014325510	45.993	287	132	3	1	264	1	287	2.38e-73	234
+# Query: WP_009885912.1 uracil phosphoribosyltransferase [Mycoplasma genitalium]
+>WP_010874390.1 uracil phosphoribosyltransferase [Mycoplasma pneumoniae]
+WP_009885912.1	WP_010874390	79.612	206	42	0	1	206	1	206	2.84e-116	337
+# Query: WP_009885913.1 DJ-1 family protein [Mycoplasma genitalium]
+>WP_010874389.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885913.1	WP_010874389	64.815	108	38	0	1	108	1	108	6.94e-44	149
+# Query: WP_009885914.1 hypothetical protein [Mycoplasma genitalium]
+>WP_054173834.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885914.1	WP_054173834	63.547	203	72	1	1	201	1	203	6.98e-92	275
+# Query: WP_009885915.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014574845.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885915.1	WP_014574845	73.469	147	39	0	1	147	1	147	1.54e-71	219
+# Query: WP_009885916.1 GTP-binding protein YchF [Mycoplasma genitalium]
+>WP_014325293.1 GTP-binding protein YchF [Mycoplasma pneumoniae]
+WP_009885916.1	WP_014325293	75.137	366	91	0	1	366	1	366	0.0	556
+# Query: WP_009885917.1 fructose-bisphosphate aldolase [Mycoplasma genitalium]
+>WP_014325292.1 fructose-bisphosphate aldolase [Mycoplasma pneumoniae]
+WP_009885917.1	WP_014325292	78.125	288	63	0	1	288	1	288	1.77e-168	476
+# Query: WP_009885918.1 DNA-directed RNA polymerase subunit delta [Mycoplasma genitalium]
+>WP_010874381.1 DNA-directed RNA polymerase subunit delta [Mycoplasma pneumoniae]
+WP_009885918.1	WP_010874381	84.828	145	21	1	1	145	3	146	4.11e-82	246
+# Query: WP_009885919.1 methionine--tRNA ligase [Mycoplasma genitalium]
+>WP_014325290.1 methionine--tRNA ligase [Mycoplasma pneumoniae]
+WP_009885919.1	WP_014325290	70.898	512	149	0	1	512	1	512	0.0	778
+# Query: WP_009885920.1 proline iminopeptidase [Mycoplasma genitalium]
+>WP_054173796.1 proline iminopeptidase [Mycoplasma pneumoniae]
+WP_009885920.1	WP_054173796	62.460	309	115	1	1	308	1	309	7.85e-143	413
+# Query: WP_009885921.1 molecular chaperone DnaJ [Mycoplasma genitalium]
+>WP_010874378.1 molecular chaperone DnaJ [Mycoplasma pneumoniae]
+WP_009885921.1	WP_010874378	74.872	390	97	1	1	389	1	390	0.0	627
+# Query: WP_009885924.1 hypothetical protein [Mycoplasma genitalium]
+>WP_042659166.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885924.1	WP_042659166	59.551	89	36	0	1	89	8	96	2.59e-30	111
+# Query: WP_009885925.1 PTS glucose EIICBA component [Mycoplasma genitalium]
+>WP_014325402.1 PTS glucose transporter subunit IIA [Mycoplasma pneumoniae]
+WP_009885925.1	WP_014325402	75.431	928	200	8	5	908	17	940	0.0	1395
+# Query: WP_009885926.1 30S ribosomal protein S2 [Mycoplasma genitalium]
+>WP_014325403.1 30S ribosomal protein S2 [Mycoplasma pneumoniae]
+WP_009885926.1	WP_014325403	81.455	275	49	1	6	278	12	286	1.23e-165	469
+# Query: WP_009885927.1 magnesium-transporting ATPase [Mycoplasma genitalium]
+>WP_014325404.1 magnesium-transporting ATPase [Mycoplasma pneumoniae]
+WP_009885927.1	WP_014325404	75.858	874	209	1	1	874	1	872	0.0	1346
+# Query: WP_009885928.1 protein translocase subunit SecA [Mycoplasma genitalium]
+>WP_019830477.1 preprotein translocase subunit SecA [Mycoplasma pneumoniae]
+WP_009885928.1	WP_019830477	86.476	806	108	1	1	805	1	806	0.0	1454
+# Query: WP_009885930.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874570.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885930.1	WP_010874570	50.629	1033	480	10	1	1014	9	1030	0.0	994
+# Query: WP_009885931.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874571.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885931.1	WP_010874571	60.145	138	55	0	1	138	1	138	6.69e-56	179
+# Query: WP_009885932.1 peptide ABC transporter permease [Mycoplasma genitalium]
+>WP_010874572.1 peptide ABC transporter permease [Mycoplasma pneumoniae]
+WP_009885932.1	WP_010874572	76.804	388	87	1	1	388	5	389	0.0	598
+# Query: WP_009885933.1 peptide ABC transporter permease [Mycoplasma genitalium]
+>WP_010874573.1 peptide ABC transporter permease [Mycoplasma pneumoniae]
+WP_009885933.1	WP_010874573	84.309	376	59	0	1	376	1	376	0.0	621
+# Query: WP_009885937.1 tRNA 4-thiouridine(8) synthase ThiI [Mycoplasma genitalium]
+>WP_010874907.1 tRNA 4-thiouridine(8) synthase ThiI [Mycoplasma pneumoniae]
+WP_009885937.1	WP_010874907	64.341	387	136	1	1	385	1	387	2.32e-180	514
+# Query: WP_009885938.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874908.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885938.1	WP_010874908	72.857	280	76	0	1	280	1	280	7.94e-155	441
+# Query: WP_009885939.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874911.1 singe-stranded DNA-binding protein [Mycoplasma pneumoniae]
+WP_009885939.1	WP_010874911	73.786	103	27	0	1	103	1	103	9.62e-49	158
+# Query: WP_009885940.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325598.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885940.1	WP_014325598	84.974	193	29	0	1	193	1	193	1.09e-118	342
+# Query: WP_009885941.1 arginine--tRNA ligase [Mycoplasma genitalium]
+>WP_014325599.1 arginine--tRNA ligase [Mycoplasma pneumoniae]
+WP_009885941.1	WP_014325599	63.315	537	197	0	1	537	1	537	0.0	709
+# Query: WP_009885942.1 ribosomal RNA small subunit methyltransferase G [Mycoplasma genitalium]
+>WP_010874915.1 ribosomal RNA small subunit methyltransferase G [Mycoplasma pneumoniae]
+WP_009885942.1	WP_010874915	58.639	191	78	1	1	191	1	190	2.46e-69	217
+# Query: WP_009885943.1 uridine kinase [Mycoplasma genitalium]
+>WP_010874918.1 uridine kinase [Mycoplasma pneumoniae]
+WP_009885943.1	WP_010874918	74.286	210	54	0	3	212	4	213	1.60e-115	336
+# Query: WP_009885944.1 NAD(+) synthetase [Mycoplasma genitalium]
+>WP_014325600.1 NAD(+) synthetase [Mycoplasma pneumoniae]
+WP_009885944.1	WP_014325600	61.633	245	93	1	3	247	4	247	1.04e-104	311
+# Query: WP_009885945.1 GTPase Obg [Mycoplasma genitalium]
+>WP_010874920.1 GTPase Obg [Mycoplasma pneumoniae]
+WP_009885945.1	WP_010874920	80.831	433	83	0	1	433	1	433	0.0	691
+# Query: WP_009885949.1 hypothetical protein [Mycoplasma genitalium]
+>WP_053344156.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885949.1	WP_053344156	64.979	237	82	1	1	236	1	237	1.37e-106	315
+# Query: WP_009885952.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874810.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885952.1	WP_010874810	55.114	176	63	5	2	161	18	193	1.25e-57	186
+# Query: WP_009885954.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325548.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885954.1	WP_014325548	65.831	957	248	13	1	882	51	1003	0.0	1221
+# Query: WP_009885956.1 cation transporter [Mycoplasma genitalium]
+>WP_010874816.1 cation transporter [Mycoplasma pneumoniae]
+WP_009885956.1	WP_010874816	68.198	566	178	2	1	565	1	565	0.0	778
+# Query: WP_009885960.1 peptidase M24 family protein [Mycoplasma genitalium]
+>WP_010874826.1 X-Pro dipeptidase [Mycoplasma pneumoniae]
+WP_009885960.1	WP_010874826	78.531	354	76	0	1	354	1	354	0.0	595
+# Query: WP_009885961.1 50S ribosomal protein L33 [Mycoplasma genitalium]
+>WP_010874827.1 50S ribosomal protein L33 [Mycoplasma pneumoniae]
+WP_009885961.1	WP_010874827	94.340	53	3	0	1	53	1	53	8.80e-28	101
+# Query: WP_009885962.1 fatty acid-binding protein DegV [Mycoplasma genitalium]
+>WP_010874828.1 fatty acid-binding protein DegV [Mycoplasma pneumoniae]
+WP_009885962.1	WP_010874828	69.072	291	88	1	3	293	2	290	7.22e-143	412
+# Query: WP_009885966.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014574997.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885966.1	WP_014574997	95.890	73	3	0	1	73	1	73	2.15e-43	142
+# Query: WP_009885968.1 iron-sulfur cluster scaffold-like protein [Mycoplasma genitalium]
+>WP_010874844.1 iron-sulfur cluster scaffold-like protein [Mycoplasma pneumoniae]
+WP_009885968.1	WP_010874844	49.275	138	70	0	1	138	1	138	9.44e-43	146
+# Query: WP_009885969.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325563.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885969.1	WP_014325563	50.181	1379	565	22	1	1270	1	1366	0.0	1298
+# Query: WP_009885970.1 protein RecA [Mycoplasma genitalium]
+>WP_010874846.1 protein RecA [Mycoplasma pneumoniae]
+WP_009885970.1	WP_010874846	78.723	329	69	1	1	329	1	328	0.0	551
+# Query: WP_009885972.1 bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase [Mycoplasma genitalium]
+>WP_014325285.1 methenyltetrahydrofolate cyclohydrolase [Mycoplasma pneumoniae]
+WP_009885972.1	WP_014325285	65.169	267	93	0	1	267	1	267	7.71e-117	344
+# Query: WP_009885973.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325284.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885973.1	WP_014325284	59.930	287	113	2	1	287	1	285	4.23e-128	374
+# Query: WP_009885976.1 deoxyribonuclease [Mycoplasma genitalium]
+>WP_014325282.1 deoxyribonuclease [Mycoplasma pneumoniae]
+WP_009885976.1	WP_014325282	67.433	261	85	0	1	261	1	261	7.11e-135	389
+# Query: WP_009885980.1 ribosome biogenesis GTPase Der [Mycoplasma genitalium]
+>WP_010874831.1 ribosome biogenesis GTPase Der [Mycoplasma pneumoniae]
+WP_009885980.1	WP_010874831	75.901	444	106	1	1	443	1	444	0.0	702
+# Query: WP_009885985.1 transcriptional regulator [Mycoplasma genitalium]
+>WP_010874834.1 transcriptional regulator [Mycoplasma pneumoniae]
+WP_009885985.1	WP_010874834	75.641	234	57	0	1	234	1	234	3.08e-125	362
+# Query: WP_009885986.1 FMN-dependent NADH-azoreductase [Mycoplasma genitalium]
+>WP_010874835.1 FMN-dependent NADH-azoreductase [Mycoplasma pneumoniae]
+WP_009885986.1	WP_010874835	76.650	197	46	0	1	197	1	197	6.93e-111	323
+# Query: WP_009885988.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874805.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885988.1	WP_010874805	51.333	450	210	7	1	443	1	448	4.08e-140	417
+# Query: WP_009885989.1 hypothetical protein [Mycoplasma genitalium]
+>WP_015344914.1 DNA polymerase III, delta subunit [Mycoplasma pneumoniae]
+WP_009885989.1	WP_015344914	47.138	297	156	1	1	296	1	297	3.59e-88	273
+# Query: WP_009885990.1 hypothetical protein [Mycoplasma genitalium]
+>WP_019830442.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009885990.1	WP_019830442	60.822	365	143	0	1	365	1	365	2.70e-155	449
+# Query: WP_009885993.1 transcription elongation factor GreA [Mycoplasma genitalium]
+>WP_010874757.1 transcription elongation factor GreA [Mycoplasma pneumoniae]
+WP_009885993.1	WP_010874757	85.000	160	23	1	1	160	1	159	1.15e-91	271
+# Query: WP_009885995.1 proline--tRNA ligase [Mycoplasma genitalium]
+>WP_010874758.1 proline--tRNA ligase [Mycoplasma pneumoniae]
+WP_009885995.1	WP_010874758	65.424	483	167	0	1	483	1	483	0.0	667
+# Query: WP_009885999.1 acyl carrier protein [Mycoplasma genitalium]
+>WP_026088353.1 acyl carrier protein [Mycoplasma pneumoniae]
+WP_009885999.1	WP_026088353	66.667	84	28	0	1	84	1	84	1.71e-31	113
+# Query: WP_009886002.1 ABC transporter permease [Mycoplasma genitalium]
+>WP_010874492.1 ABC transporter permease [Mycoplasma pneumoniae]
+WP_009886002.1	WP_010874492	75.000	328	82	0	1	328	1	328	2.59e-174	494
+# Query: WP_009886003.1 ABC transporter permease [Mycoplasma genitalium]
+>WP_010874493.1 ABC transporter permease [Mycoplasma pneumoniae]
+WP_009886003.1	WP_010874493	68.966	319	98	1	1	318	1	319	1.32e-145	421
+# Query: WP_009886005.1 DHH family phosphoesterase [Mycoplasma genitalium]
+>WP_010874497.1 bifunctional oligoribonuclease and PAP phosphatase NrnA [Mycoplasma pneumoniae]
+WP_009886005.1	WP_010874497	61.076	316	121	1	2	315	7	322	3.36e-145	420
+# Query: WP_009886007.1 oxidoreductase [Mycoplasma genitalium]
+>WP_026088326.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_009886007.1	WP_026088326	53.125	64	30	0	51	114	18	81	3.07e-14	72.0
+# Query: WP_010869286.1 serine--tRNA ligase [Mycoplasma genitalium]
+>WP_010874362.1 serine--tRNA ligase [Mycoplasma pneumoniae]
+WP_010869286.1	WP_010874362	79.327	416	86	0	1	416	1	416	0.0	697
+# Query: WP_010869287.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE [Mycoplasma genitalium]
+>WP_054175790.1 tRNA modification GTPase [Mycoplasma pneumoniae]
+WP_010869287.1	WP_054175790	63.801	442	160	0	1	442	1	442	0.0	592
+# Query: WP_010869288.1 hypothetical protein [Mycoplasma genitalium]
+>WP_053344064.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869288.1	WP_053344064	55.093	216	91	1	1	216	1	210	3.88e-84	256
+# Query: WP_010869289.1 RimK family alpha-L-glutamate ligase [Mycoplasma genitalium]
+>WP_010874373.1 RimK family alpha-L-glutamate ligase [Mycoplasma pneumoniae]
+WP_010869289.1	WP_010874373	68.990	287	89	0	1	287	1	287	2.91e-142	410
+# Query: WP_010869290.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_054175789.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_010869290.1	WP_054175789	76.688	622	145	0	1	622	1	622	0.0	962
+# Query: WP_010869291.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_014325287.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_010869291.1	WP_014325287	76.570	589	138	0	1	589	46	634	0.0	960
+# Query: WP_010869292.1 helicase [Mycoplasma genitalium]
+>WP_053344129.1 helicase [Mycoplasma pneumoniae]
+WP_010869292.1	WP_053344129	61.725	1032	392	3	1	1031	1	1030	0.0	1315
+# Query: WP_010869294.1 elongation factor P [Mycoplasma genitalium]
+>WP_010874386.1 elongation factor P [Mycoplasma pneumoniae]
+WP_010869294.1	WP_010874386	86.842	190	25	0	1	190	1	190	9.91e-121	347
+# Query: WP_010869296.1 DNA polymerase III subunit alpha [Mycoplasma genitalium]
+>WP_014574846.1 DNA polymerase III subunit alpha [Mycoplasma pneumoniae]
+WP_010869296.1	WP_014574846	73.154	1449	379	3	1	1448	1	1440	0.0	2241
+# Query: WP_010869297.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874393.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869297.1	WP_010874393	52.083	672	310	7	1	663	1	669	0.0	679
+# Query: WP_010869300.1 glycerol kinase [Mycoplasma genitalium]
+>WP_014325309.1 glycerol kinase [Mycoplasma pneumoniae]
+WP_010869300.1	WP_014325309	74.409	508	130	0	1	508	1	508	0.0	799
+# Query: WP_010869301.1 FAD-dependent oxidoreductase [Mycoplasma genitalium]
+>WP_014325310.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869301.1	WP_014325310	63.021	384	142	0	1	384	1	384	3.76e-179	511
+# Query: WP_010869302.1 phosphocarrier protein HPr [Mycoplasma genitalium]
+>WP_010874410.1 phosphocarrier protein HPr [Mycoplasma pneumoniae]
+WP_010869302.1	WP_010874410	81.818	88	16	0	1	88	1	88	4.92e-44	145
+# Query: WP_010869303.1 spermidine/putrescine import ATP-binding protein PotA [Mycoplasma genitalium]
+>WP_010874412.1 spermidine/putrescine import ATP-binding protein PotA [Mycoplasma pneumoniae]
+WP_010869303.1	WP_010874412	74.464	560	142	1	1	559	1	560	0.0	842
+# Query: WP_010869304.1 spermidine/putrescine ABC transporter permease [Mycoplasma genitalium]
+>WP_014574856.1 spermidine/putrescine ABC transporter permease [Mycoplasma pneumoniae]
+WP_010869304.1	WP_014574856	78.092	283	62	0	1	283	1	283	5.99e-158	449
+# Query: WP_010869305.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874415.1 lipoprotein [Mycoplasma pneumoniae]
+WP_010869305.1	WP_010874415	62.048	498	161	8	1	483	1	485	0.0	592
+# Query: WP_010869307.1 2-deoxyribose-5-phosphate aldolase [Mycoplasma genitalium]
+>WP_010874420.1 2-deoxyribose-5-phosphate aldolase [Mycoplasma pneumoniae]
+WP_010869307.1	WP_010874420	82.960	223	38	0	1	223	1	223	1.65e-136	390
+# Query: WP_010869308.1 cytidine deaminase [Mycoplasma genitalium]
+>WP_010874422.1 cytidine deaminase [Mycoplasma pneumoniae]
+WP_010869308.1	WP_010874422	67.442	129	41	1	1	128	1	129	2.58e-61	192
+# Query: WP_010869309.1 preprotein translocase subunit SecE [Mycoplasma genitalium]
+>WP_010874425.1 preprotein translocase subunit SecE [Mycoplasma pneumoniae]
+WP_010869309.1	WP_010874425	59.016	122	50	0	2	123	3	124	5.68e-39	135
+# Query: WP_010869310.1 glycosyl transferase family A [Mycoplasma genitalium]
+>WP_053344053.1 glycosyl transferase family A [Mycoplasma pneumoniae]
+WP_010869310.1	WP_053344053	58.362	293	121	1	1	293	1	292	2.74e-119	352
+# Query: WP_010869311.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874433.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869311.1	WP_010874433	62.522	563	199	2	17	567	2	564	0.0	733
+# Query: WP_010869312.1 PTS fructose EIIABC component [Mycoplasma genitalium]
+>WP_014325324.1 fructose permease IIC protein [Mycoplasma pneumoniae]
+WP_010869312.1	WP_014325324	69.509	692	199	2	1	680	1	692	0.0	992
+# Query: WP_010869313.1 phosphofructokinase [Mycoplasma genitalium]
+>WP_014325325.1 phosphofructokinase [Mycoplasma pneumoniae]
+WP_010869313.1	WP_014325325	58.194	299	123	1	7	303	2	300	5.97e-112	334
+# Query: WP_010869314.1 ABC transporter permease [Mycoplasma genitalium]
+>WP_058158331.1 ABC transporter permease [Mycoplasma pneumoniae]
+WP_010869314.1	WP_058158331	67.026	1392	392	7	1	1331	1	1386	0.0	1795
+# Query: WP_010869315.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_010874438.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_010869315.1	WP_010874438	65.880	466	158	1	1	466	1	465	0.0	627
+# Query: WP_010869316.1 transketolase [Mycoplasma genitalium]
+>WP_010874439.1 transketolase [Mycoplasma pneumoniae]
+WP_010869316.1	WP_010874439	71.759	648	183	0	1	648	1	648	0.0	1006
+# Query: WP_010869318.1 excinuclease ABC subunit B [Mycoplasma genitalium]
+>WP_010874568.1 excinuclease ABC subunit B [Mycoplasma pneumoniae]
+WP_010869318.1	WP_010874568	76.982	656	150	1	1	655	1	656	0.0	1064
+# Query: WP_010869319.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874569.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869319.1	WP_010874569	38.519	135	83	0	1	135	1	135	5.00e-23	95.9
+# Query: WP_010869322.1 oligopeptide transport ATP-binding protein OppD [Mycoplasma genitalium]
+>WP_010874574.1 oligopeptide transport ATP-binding protein OppD [Mycoplasma pneumoniae]
+WP_010869322.1	WP_010874574	78.500	400	86	0	1	400	1	400	0.0	660
+# Query: WP_010869323.1 50S ribosomal protein L1 [Mycoplasma genitalium]
+>WP_010874577.1 50S ribosomal protein L1 [Mycoplasma pneumoniae]
+WP_010869323.1	WP_010874577	80.088	226	45	0	1	226	1	226	4.30e-130	374
+# Query: WP_010869324.1 tRNA(Ile)-lysidine synthetase [Mycoplasma genitalium]
+>WP_010874579.1 tRNA(Ile)-lysidine synthetase [Mycoplasma pneumoniae]
+WP_010869324.1	WP_010874579	71.930	285	80	0	6	290	5	289	4.63e-156	445
+# Query: WP_010869325.1 HPr kinase/phosphorylase [Mycoplasma genitalium]
+>WP_010874580.1 HPr kinase/phosphorylase [Mycoplasma pneumoniae]
+WP_010869325.1	WP_010874580	72.990	311	84	0	1	311	1	311	6.20e-161	459
+# Query: WP_010869326.1 30S ribosomal protein S12 [Mycoplasma genitalium]
+>WP_014325410.1 30S ribosomal protein S12 [Mycoplasma pneumoniae]
+WP_010869326.1	WP_014325410	96.403	139	5	0	1	139	1	139	1.30e-92	272
+# Query: WP_010869327.1 single-stranded DNA-binding protein [Mycoplasma genitalium]
+>WP_010874586.1 single-stranded DNA-binding protein [Mycoplasma pneumoniae]
+WP_010869327.1	WP_010874586	58.182	165	64	2	1	160	1	165	2.62e-64	202
+# Query: WP_010869329.1 replicative DNA helicase [Mycoplasma genitalium]
+>WP_014325412.1 DNA helicase [Mycoplasma pneumoniae]
+WP_010869329.1	WP_014325412	67.728	471	142	5	4	468	7	473	0.0	619
+# Query: WP_010869330.1 hypothetical protein [Mycoplasma genitalium]
+>WP_017532690.1 membrane protein [Mycoplasma pneumoniae]
+WP_010869330.1	WP_017532690	48.624	654	310	12	1	647	1	635	0.0	571
+# Query: WP_010869331.1 glutamyl-tRNA(Gln) amidotransferase subunit A [Mycoplasma genitalium]
+>WP_010874594.1 glutamyl-tRNA(Gln) amidotransferase subunit A [Mycoplasma pneumoniae]
+WP_010869331.1	WP_010874594	67.715	477	154	0	1	477	1	477	0.0	680
+# Query: WP_010869332.1 DNA-binding protein WhiA [Mycoplasma genitalium]
+>WP_010874598.1 DNA-binding protein WhiA [Mycoplasma pneumoniae]
+WP_010869332.1	WP_010874598	56.429	280	121	1	1	280	1	279	1.21e-107	321
+# Query: WP_010869333.1 protein-export membrane protein SecG [Mycoplasma genitalium]
+>WP_033159854.1 preprotein translocase subunit SecG [Mycoplasma alvi]
+WP_010869333.1	WP_033159854	73.333	75	20	0	1	75	1	75	6.06e-32	114
+# Query: WP_010869334.1 protein phosphatase [Mycoplasma genitalium]
+>WP_010874604.1 protein phosphatase [Mycoplasma pneumoniae]
+WP_010869334.1	WP_010874604	54.264	258	117	1	1	257	1	258	5.26e-94	285
+# Query: WP_010869335.1 ribosome biogenesis GTPase RsgA [Mycoplasma genitalium]
+>WP_010874606.1 ribosome small subunit-dependent GTPase [Mycoplasma pneumoniae]
+WP_010869335.1	WP_010874606	59.559	272	110	0	7	278	7	278	4.26e-110	327
+# Query: WP_010869336.1 glucose-6-phosphate isomerase [Mycoplasma genitalium]
+>WP_014325418.1 glucose-6-phosphate isomerase [Mycoplasma pneumoniae]
+WP_010869336.1	WP_014325418	70.023	427	128	0	1	427	1	427	0.0	635
+# Query: WP_010869338.1 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [Mycoplasma genitalium]
+>WP_054175854.1 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [Mycoplasma pneumoniae]
+WP_010869338.1	WP_054175854	56.972	251	108	0	1	251	1	251	7.91e-103	307
+# Query: WP_010869339.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014574921.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869339.1	WP_014574921	39.286	224	125	4	1	214	1	223	5.61e-48	165
+# Query: WP_010869340.1 UDP-glucose 4-epimerase [Mycoplasma genitalium]
+>WP_010874614.1 UDP-glucose 4-epimerase [Mycoplasma pneumoniae]
+WP_010869340.1	WP_010874614	54.599	337	152	1	1	337	1	336	1.47e-133	392
+# Query: WP_010869342.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014574926.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869342.1	WP_014574926	44.165	437	244	0	35	471	39	475	2.20e-115	355
+# Query: WP_010869343.1 thiol reductase thioredoxin [Mycoplasma genitalium]
+>WP_010874620.1 thiol reductase thioredoxin [Mycoplasma pneumoniae]
+WP_010869343.1	WP_010874620	68.627	102	32	0	1	102	1	102	3.67e-46	152
+# Query: WP_010869344.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325427.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869344.1	WP_014325427	61.423	267	103	0	15	281	15	281	2.41e-120	354
+# Query: WP_010869345.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874623.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869345.1	WP_010874623	81.481	135	25	0	6	140	5	139	1.04e-69	214
+# Query: WP_010869346.1 ribonuclease Y [Mycoplasma genitalium]
+>WP_010874626.1 ribonuclease Y [Mycoplasma pneumoniae]
+WP_010869346.1	WP_010874626	58.799	483	191	5	8	483	9	490	0.0	572
+# Query: WP_010869347.1 nucleoid-associated protein, YbaB/EbfC family [Mycoplasma genitalium]
+>WP_010874632.1 nucleoid-associated protein, YbaB/EbfC family [Mycoplasma pneumoniae]
+WP_010869347.1	WP_010874632	71.000	100	29	0	1	100	1	100	5.77e-45	148
+# Query: WP_010869348.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874633.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869348.1	WP_010874633	65.233	279	92	1	1	274	1	279	3.74e-129	376
+# Query: WP_010869350.1 elongation factor 4 [Mycoplasma genitalium]
+>WP_014325436.1 elongation factor 4 [Mycoplasma pneumoniae]
+WP_010869350.1	WP_014325436	84.114	598	95	0	1	598	1	598	0.0	1030
+# Query: WP_010869351.1 ATP-dependent helicase [Mycoplasma genitalium]
+>WP_010874510.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869351.1	WP_010874510	78.616	1113	238	0	1	1113	1	1113	0.0	1815
+# Query: WP_010869352.1 translation initiation factor IF-2 [Mycoplasma genitalium]
+>WP_014325382.1 translation initiation factor IF-2 [Mycoplasma pneumoniae]
+WP_010869352.1	WP_014325382	78.140	613	131	1	3	615	5	614	0.0	996
+# Query: WP_010869353.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874516.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869353.1	WP_010874516	69.267	423	130	0	1	423	1	423	0.0	598
+# Query: WP_010869354.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874517.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869354.1	WP_010874517	65.344	378	127	2	1	375	1	377	1.62e-175	501
+# Query: WP_010869355.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325384.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869355.1	WP_014325384	42.729	447	206	8	1	406	4	441	6.60e-100	313
+# Query: WP_010869356.1 hypothetical protein [Mycoplasma genitalium]
+>WP_017532914.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869356.1	WP_017532914	40.256	313	145	8	1	271	1	313	5.37e-47	168
+# Query: WP_010869357.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874520.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869357.1	WP_010874520	67.857	112	36	0	43	154	1	112	2.61e-46	154
+# Query: WP_010869358.1 50S ribosomal protein L3 [Mycoplasma genitalium]
+>WP_010874522.1 50S ribosomal protein L3 [Mycoplasma pneumoniae]
+WP_010869358.1	WP_010874522	75.934	241	58	0	1	241	1	241	9.73e-134	387
+# Query: WP_010869359.1 30S ribosomal protein S8 [Mycoplasma genitalium]
+>WP_010874536.1 30S ribosomal protein S8 [Mycoplasma pneumoniae]
+WP_010869359.1	WP_010874536	91.045	134	12	0	8	141	9	142	1.73e-83	249
+# Query: WP_010869360.1 50S ribosomal protein L6 [Mycoplasma genitalium]
+>WP_010874537.1 50S ribosomal protein L6 [Mycoplasma pneumoniae]
+WP_010869360.1	WP_010874537	74.457	184	47	0	1	184	1	184	1.52e-93	278
+# Query: WP_010869361.1 50S ribosomal protein L15 [Mycoplasma genitalium]
+>WP_014325390.1 50S ribosomal protein L15 [Mycoplasma pneumoniae]
+WP_010869361.1	WP_014325390	73.826	149	39	0	1	149	1	149	2.95e-73	224
+# Query: WP_010869362.1 50S ribosomal protein L17 [Mycoplasma genitalium]
+>WP_010874549.1 50S ribosomal protein L17 [Mycoplasma pneumoniae]
+WP_010869362.1	WP_010874549	82.645	121	21	0	1	121	1	121	8.45e-68	208
+# Query: WP_010869363.1 adenine methylase [Mycoplasma genitalium]
+>WP_010874555.1 adenine-specific methyltransferase [Mycoplasma pneumoniae]
+WP_010869363.1	WP_010874555	61.709	316	121	0	1	316	1	316	7.66e-143	414
+# Query: WP_010869364.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874490.1 lipoprotein [Mycoplasma pneumoniae]
+WP_010869364.1	WP_010874490	39.236	288	132	3	1	245	1	288	1.59e-62	206
+# Query: WP_010869365.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_054173260.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_010869365.1	WP_054173260	61.473	584	214	3	4	585	9	583	0.0	719
+# Query: WP_010869366.1 adhesin P1 [Mycoplasma genitalium]
+>WP_010874498.1 adhesin P1 [Mycoplasma pneumoniae]
+WP_010869366.1	WP_010874498	45.015	1615	690	42	1	1431	1	1601	0.0	1251
+# Query: WP_010869368.1 phenylalanine--tRNA ligase subunit alpha [Mycoplasma genitalium]
+>WP_010874462.1 phenylalanine--tRNA ligase subunit alpha [Mycoplasma pneumoniae]
+WP_010869368.1	WP_010874462	67.449	341	111	0	1	341	1	341	1.40e-172	491
+# Query: WP_010869370.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874478.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869370.1	WP_010874478	79.508	122	24	1	1	122	1	121	6.02e-61	191
+# Query: WP_010869371.1 DNA topoisomerase IV subunit B [Mycoplasma genitalium]
+>WP_014325357.1 DNA topoisomerase IV subunit B [Mycoplasma pneumoniae]
+WP_010869371.1	WP_014325357	70.597	636	183	3	1	633	1	635	0.0	939
+# Query: WP_010869372.1 DNA topoisomerase 4 subunit A [Mycoplasma genitalium]
+>WP_010874480.1 DNA topoisomerase 4 subunit A [Mycoplasma pneumoniae]
+WP_010869372.1	WP_010874480	65.565	787	263	5	1	779	1	787	0.0	1053
+# Query: WP_010869373.1 UvrABC system protein C [Mycoplasma genitalium]
+>WP_014325359.1 excinuclease ABC subunit C [Mycoplasma pneumoniae]
+WP_010869373.1	WP_014325359	62.606	591	219	2	8	597	11	600	0.0	760
+# Query: WP_010869374.1 segregation and condensation protein A [Mycoplasma genitalium]
+>WP_014574941.1 segregation/condensation protein A [Mycoplasma pneumoniae]
+WP_010869374.1	WP_014574941	44.306	483	239	8	1	462	1	474	2.01e-116	359
+# Query: WP_010869375.1 ATP-dependent 6-phosphofructokinase [Mycoplasma genitalium]
+>WP_010874659.1 ATP-dependent 6-phosphofructokinase [Mycoplasma pneumoniae]
+WP_010869375.1	WP_010874659	66.355	321	108	0	3	323	8	328	1.22e-159	457
+# Query: WP_010869376.1 proline-rich protein [Mycoplasma genitalium]
+>WP_054173286.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869376.1	WP_054173286	42.998	407	163	15	22	372	12	405	1.80e-72	239
+# Query: WP_010869377.1 Cytadherence high molecular weight protein 2 [Mycoplasma genitalium]
+>WP_054175915.1 cytadherence high molecular weight protein 2 [Mycoplasma pneumoniae]
+WP_010869377.1	WP_054175915	56.612	1830	754	8	1	1803	1	1817	0.0	1834
+# Query: WP_010869378.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325454.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869378.1	WP_014325454	53.678	367	137	8	2	346	1	356	1.21e-112	340
+# Query: WP_010869379.1 hypothetical protein [Mycoplasma genitalium]
+>WP_007862007.1 1,4-alpha-glucan branching enzyme [[Clostridium] citroniae]
+WP_010869379.1	WP_007862007	37.333	75	33	3	87	148	800	873	0.39	40.4
+# Query: WP_010869380.1 division/cell wall cluster transcriptional repressor MraZ [Mycoplasma genitalium]
+>WP_010874670.1 division/cell wall cluster transcriptional repressor MraZ [Mycoplasma pneumoniae]
+WP_010869380.1	WP_010874670	81.560	141	26	0	1	141	1	141	6.52e-82	245
+# Query: WP_010869381.1 hypothetical protein [Mycoplasma genitalium]
+>WP_015344901.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869381.1	WP_015344901	49.882	423	196	6	1	411	1	419	3.10e-136	404
+# Query: WP_010869382.1 cell division protein FtsZ [Mycoplasma genitalium]
+>WP_010874673.1 cell division protein FtsZ [Mycoplasma pneumoniae]
+WP_010869382.1	WP_010874673	55.956	361	149	3	15	365	15	375	9.07e-137	402
+# Query: WP_010869383.1 amino acid permease [Mycoplasma genitalium]
+>WP_054175766.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869383.1	WP_054175766	69.530	489	145	2	1	486	1	488	0.0	684
+# Query: WP_010869384.1 amino acid permease [Mycoplasma genitalium]
+>WP_014325459.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869384.1	WP_014325459	64.490	490	167	3	2	484	6	495	0.0	630
+# Query: WP_010869385.1 thymidylate synthase [Mycoplasma genitalium]
+>WP_053344028.1 thymidylate synthase [Mycoplasma pneumoniae]
+WP_010869385.1	WP_053344028	74.564	287	73	0	1	287	1	287	9.24e-159	451
+# Query: WP_010869386.1 class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI [Mycoplasma genitalium]
+>WP_014325461.1 ribonucleotide reductase assembly protein NrdI [Mycoplasma pneumoniae]
+WP_010869386.1	WP_014325461	75.168	149	37	0	1	149	1	149	2.96e-80	242
+# Query: WP_010869387.1 nicotinate-nucleotide adenylyltransferase [Mycoplasma genitalium]
+>WP_014574948.1 nicotinate-nucleotide adenylyltransferase [Mycoplasma pneumoniae]
+WP_010869387.1	WP_014574948	58.000	350	146	1	1	350	1	349	2.47e-150	435
+# Query: WP_010869388.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874693.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869388.1	WP_010874693	73.752	621	161	2	1	619	1	621	0.0	929
+# Query: WP_010869389.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874694.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869389.1	WP_010874694	76.741	632	145	2	1	630	1	632	0.0	1000
+# Query: WP_010869390.1 DNA helicase II [Mycoplasma genitalium]
+>WP_010874697.1 DNA helicase II [Mycoplasma pneumoniae]
+WP_010869390.1	WP_010874697	52.825	708	328	3	1	703	9	715	0.0	745
+# Query: WP_010869391.1 metallophosphoesterase [Mycoplasma genitalium]
+>WP_010874705.1 metallophosphoesterase [Mycoplasma pneumoniae]
+WP_010869391.1	WP_010874705	70.714	280	82	0	1	280	2	281	9.54e-148	423
+# Query: WP_010869392.1 glycine--tRNA ligase [Mycoplasma genitalium]
+>WP_054175805.1 glycine--tRNA ligase [Mycoplasma pneumoniae]
+WP_010869392.1	WP_054175805	71.396	444	127	0	1	444	1	444	0.0	682
+# Query: WP_010869393.1 23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB [Mycoplasma genitalium]
+>WP_058157834.1 23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB [Mycoplasma pneumoniae]
+WP_010869393.1	WP_058157834	62.810	242	90	0	1	242	1	242	5.27e-112	329
+# Query: WP_010869397.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325484.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869397.1	WP_014325484	53.282	259	117	3	1	256	1	258	2.55e-83	258
+# Query: WP_010869398.1 50S ribosomal protein L31 [Mycoplasma genitalium]
+>WP_010874716.1 50S ribosomal protein L31 [Mycoplasma pneumoniae]
+WP_010869398.1	WP_010874716	73.196	97	26	0	1	97	1	97	4.17e-46	151
+# Query: WP_010869399.1 5'-3' exonuclease [Mycoplasma genitalium]
+>WP_010874735.1 5'-3' exonuclease [Mycoplasma pneumoniae]
+WP_010869399.1	WP_010874735	68.041	291	93	0	1	291	1	291	5.46e-147	422
+# Query: WP_010869400.1 formamidopyrimidine-DNA glycosylase [Mycoplasma genitalium]
+>WP_010874736.1 formamidopyrimidine-DNA glycosylase [Mycoplasma pneumoniae]
+WP_010869400.1	WP_010874736	66.423	274	90	1	1	272	1	274	7.50e-129	375
+# Query: WP_010869401.1 leucine--tRNA ligase [Mycoplasma genitalium]
+>WP_014325502.1 leucine--tRNA ligase [Mycoplasma pneumoniae]
+WP_010869401.1	WP_014325502	73.072	791	213	0	1	791	1	791	0.0	1228
+# Query: WP_010869403.1 hypothetical protein [Mycoplasma genitalium]
+>WP_054175397.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869403.1	WP_054175397	69.490	980	281	6	1	970	1	972	0.0	1386
+# Query: WP_010869404.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325509.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869404.1	WP_014325509	59.447	217	86	2	1	216	1	216	9.34e-84	256
+# Query: WP_010869405.1 IgG-blocking protein M [Mycoplasma genitalium]
+>WP_010874756.1 IgG-blocking protein M [Mycoplasma pneumoniae]
+WP_010869405.1	WP_010874756	56.392	571	219	12	1	545	5	571	0.0	604
+# Query: WP_010869406.1 hypothetical protein [Mycoplasma genitalium]
+>WP_017532918.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869406.1	WP_017532918	76.364	110	26	0	12	121	8	117	1.20e-53	172
+# Query: WP_010869407.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874760.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869407.1	WP_010874760	55.942	345	152	0	3	347	2	346	5.83e-134	393
+# Query: WP_010869408.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325515.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869408.1	WP_014325515	66.327	196	66	0	1	196	1	196	3.11e-95	283
+# Query: WP_010869409.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_017532944.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_010869409.1	WP_017532944	61.411	241	93	0	5	245	4	244	4.01e-107	317
+# Query: WP_010869410.1 ABC transporter permease [Mycoplasma genitalium]
+>WP_014574974.1 ABC transporter permease [Mycoplasma pneumoniae]
+WP_010869410.1	WP_014574974	57.011	542	233	0	2	543	1	542	0.0	622
+# Query: WP_010869411.1 Holliday junction resolvase RuvX [Mycoplasma genitalium]
+>WP_014325523.1 Holliday junction DNA helicase [Mycoplasma pneumoniae]
+WP_010869411.1	WP_014325523	61.940	134	51	0	1	134	1	134	1.20e-53	173
+# Query: WP_010869412.1 alanine--tRNA ligase [Mycoplasma genitalium]
+>WP_014574975.1 alanine--tRNA ligase [Mycoplasma pneumoniae]
+WP_010869412.1	WP_014574975	68.339	897	283	1	1	897	1	896	0.0	1250
+# Query: WP_010869413.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874776.1 glycerophosphoryl diester phosphodiesterase [Mycoplasma pneumoniae]
+WP_010869413.1	WP_010874776	66.805	241	80	0	1	241	1	241	2.59e-116	340
+# Query: WP_010869415.1 tRNA 2-thiouridine(34) synthase MnmA [Mycoplasma genitalium]
+>WP_010874778.1 tRNA 2-thiouridine(34) synthase MnmA [Mycoplasma pneumoniae]
+WP_010869415.1	WP_010874778	63.260	362	133	0	6	367	4	365	1.02e-170	488
+# Query: WP_010869416.1 chromosome partition protein Smc [Mycoplasma genitalium]
+>WP_014574976.1 chromosome partitioning protein Smc [Mycoplasma pneumoniae]
+WP_010869416.1	WP_014574976	73.014	982	265	0	1	982	1	982	0.0	1443
+# Query: WP_010869417.1 phosphoglycerate kinase [Mycoplasma genitalium]
+>WP_014325528.1 phosphoglycerate kinase [Mycoplasma pneumoniae]
+WP_010869417.1	WP_014325528	70.171	409	121	1	1	409	1	408	0.0	581
+# Query: WP_010869418.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874787.1 cobalt ABC transporter permease [Mycoplasma pneumoniae]
+WP_010869418.1	WP_010874787	64.353	317	113	0	1	317	1	317	1.24e-134	393
+# Query: WP_010869419.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_058129056.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_010869419.1	WP_058129056	58.974	351	144	0	1	351	1	351	4.41e-147	427
+# Query: WP_010869420.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874791.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869420.1	WP_010874791	71.244	386	109	2	1	386	1	384	0.0	537
+# Query: WP_010869421.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874792.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869421.1	WP_010874792	54.334	1246	498	17	1	1177	1	1244	0.0	1286
+# Query: WP_010869422.1 ATP-dependent RNA helicase [Mycoplasma genitalium]
+>WP_014325539.1 ATP-dependent RNA helicase [Mycoplasma pneumoniae]
+WP_010869422.1	WP_014325539	58.637	411	167	2	1	410	1	409	6.41e-167	482
+# Query: WP_010869424.1 Cytadherence high molecular weight protein 1 [Mycoplasma genitalium]
+>XP_006616365.1 PREDICTED: uncharacterized protein LOC102671488 [Apis dorsata]
+WP_010869424.1	XP_006616365	22.446	744	455	33	194	842	3854	4570	1.68e-13	86.7
+# Query: WP_010869426.1 Cytadherence high molecular weight protein 3 [Mycoplasma genitalium]
+>WP_054173300.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869426.1	WP_054173300	33.523	704	333	28	1	599	1	674	2.99e-69	245
+# Query: WP_010869427.1 adhesin [Mycoplasma genitalium]
+>WP_058157846.1 adhesin [Mycoplasma pneumoniae]
+WP_010869427.1	WP_058157846	43.144	299	107	14	8	268	7	280	2.43e-39	147
+# Query: WP_010869429.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874811.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869429.1	WP_010874811	69.792	288	81	4	1	285	1	285	7.89e-122	358
+# Query: WP_010869432.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874817.1 K+ transporter [Mycoplasma pneumoniae]
+WP_010869432.1	WP_010874817	77.876	226	50	0	1	226	1	226	7.25e-128	369
+# Query: WP_010869433.1 alpha/beta hydrolase [Mycoplasma genitalium]
+>WP_010874829.1 esterase [Mycoplasma pneumoniae]
+WP_010869433.1	WP_010874829	66.165	266	90	0	2	267	1	266	6.66e-131	379
+# Query: WP_010869434.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874830.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869434.1	WP_010874830	35.294	391	174	11	421	754	663	1031	3.11e-38	163
+# Query: WP_010869435.1 cytidylate kinase [Mycoplasma genitalium]
+>WP_010874832.1 cytidylate kinase [Mycoplasma pneumoniae]
+WP_010869435.1	WP_010874832	65.438	217	75	0	1	217	1	217	3.77e-103	305
+# Query: WP_010869436.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874833.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869436.1	WP_010874833	41.837	196	112	2	1	196	1	194	1.30e-48	166
+# Query: WP_010869437.1 valine--tRNA ligase [Mycoplasma genitalium]
+>WP_010874836.1 valine--tRNA ligase [Mycoplasma pneumoniae]
+WP_010869437.1	WP_010874836	65.591	837	287	1	1	836	1	837	0.0	1140
+# Query: WP_010869438.1 GTP-binding protein [Mycoplasma genitalium]
+>WP_010874837.1 GTP-binding protein [Mycoplasma pneumoniae]
+WP_010869438.1	WP_010874837	75.661	189	46	0	1	189	1	189	5.39e-102	300
+# Query: WP_010869439.1 diacylglycerol beta-glycosyltransferase [Mycoplasma genitalium]
+>WP_010874839.1 diacylglycerol beta-glycosyltransferase [Mycoplasma pneumoniae]
+WP_010869439.1	WP_010874839	56.047	339	149	0	1	339	1	339	5.27e-141	411
+# Query: WP_010869440.1 cysteine desulfurase [Mycoplasma genitalium]
+>WP_019830430.1 cysteine desulfurase [Mycoplasma pneumoniae]
+WP_010869440.1	WP_019830430	61.916	407	155	0	1	407	1	407	0.0	533
+# Query: WP_010869441.1 DNA-directed RNA polymerase subunit beta' [Mycoplasma genitalium]
+>WP_017532897.1 DNA-directed RNA polymerase subunit beta' [Mycoplasma pneumoniae]
+WP_010869441.1	WP_017532897	92.543	1274	95	0	19	1292	17	1290	0.0	2443
+# Query: WP_010869442.1 hypothetical protein [Mycoplasma genitalium]
+>WP_017532695.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869442.1	WP_017532695	53.079	341	159	1	5	344	6	346	1.09e-117	352
+# Query: WP_010869443.1 isoleucine--tRNA ligase [Mycoplasma genitalium]
+>WP_014325579.1 isoleucine--tRNA ligase [Mycoplasma pneumoniae]
+WP_010869443.1	WP_014325579	69.687	894	269	1	1	892	1	894	0.0	1306
+# Query: WP_010869445.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874882.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869445.1	WP_010874882	47.423	291	137	2	14	304	43	317	1.14e-81	258
+# Query: WP_010869446.1 chaperone protein ClpB [Mycoplasma genitalium]
+>WP_014325586.1 chaperone protein ClpB [Mycoplasma pneumoniae]
+WP_010869446.1	WP_014325586	82.982	711	121	0	1	711	1	711	0.0	1218
+# Query: WP_010869447.1 Holliday junction branch migration protein RuvA [Mycoplasma genitalium]
+>WP_010874892.1 Holliday junction DNA helicase RuvA [Mycoplasma pneumoniae]
+WP_010869447.1	WP_010874892	68.447	206	64	1	1	205	1	206	2.72e-93	279
+# Query: WP_010869448.1 DNA polymerase IV [Mycoplasma genitalium]
+>WP_014325590.1 DNA polymerase IV [Mycoplasma pneumoniae]
+WP_010869448.1	WP_014325590	62.044	411	156	0	1	411	1	411	8.89e-178	509
+# Query: WP_010869449.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874899.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869449.1	WP_010874899	74.093	193	49	1	25	216	26	218	3.12e-89	270
+# Query: WP_010869450.1 methionyl-tRNA formyltransferase [Mycoplasma genitalium]
+>WP_010874900.1 methionyl-tRNA formyltransferase [Mycoplasma pneumoniae]
+WP_010869450.1	WP_010874900	66.774	310	103	0	1	310	1	310	1.58e-150	432
+# Query: WP_010869451.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325595.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869451.1	WP_014325595	64.545	660	229	3	1	655	1	660	0.0	880
+# Query: WP_010869453.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874904.1 dihydroacetone kinase [Mycoplasma pneumoniae]
+WP_010869453.1	WP_010874904	76.703	558	129	1	1	557	1	558	0.0	894
+# Query: WP_010869455.1 DHH family phosphoesterase [Mycoplasma genitalium]
+>WP_010874906.1 phosphodiesterase [Mycoplasma pneumoniae]
+WP_010869455.1	WP_010874906	82.500	320	56	0	1	320	1	320	0.0	527
+# Query: WP_010869457.1 threonine--tRNA ligase [Mycoplasma genitalium]
+>WP_010874910.1 threonine--tRNA ligase [Mycoplasma pneumoniae]
+WP_010869457.1	WP_010874910	66.135	564	191	0	1	564	1	564	0.0	805
+# Query: WP_010869458.1 tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG [Mycoplasma genitalium]
+>WP_054175512.1 tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA [Mycoplasma pneumoniae]
+WP_010869458.1	WP_054175512	69.935	612	184	0	1	612	1	612	0.0	908
+# Query: WP_010869459.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874916.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869459.1	WP_010874916	56.744	215	93	0	1	215	14	228	4.76e-82	252
+# Query: WP_010869461.1 cytadherence protein [Mycoplasma genitalium]
+# Query: WP_010869462.1 GTPase Era [Mycoplasma genitalium]
+>WP_010874925.1 GTPase Era [Mycoplasma pneumoniae]
+WP_010869462.1	WP_010874925	60.000	290	114	1	1	288	1	290	8.91e-123	360
+# Query: WP_010869463.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_026088354.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_010869463.1	WP_026088354	70.000	660	198	0	1	660	1	660	0.0	880
+# Query: WP_010869464.1 co-chaperone GroES [Mycoplasma genitalium]
+>WP_010874931.1 molecular chaperone GroES [Mycoplasma pneumoniae]
+WP_010869464.1	WP_010874931	80.198	101	19	1	1	101	1	100	8.35e-51	164
+# Query: WP_010869465.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325622.1 lipoprotein [Mycoplasma pneumoniae]
+WP_010869465.1	WP_014325622	45.842	469	216	7	75	513	61	521	3.01e-133	405
+# Query: WP_010869466.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874953.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869466.1	WP_010874953	56.239	569	246	1	1	566	1	569	0.0	611
+# Query: WP_010869467.1 ATP synthase epsilon chain [Mycoplasma genitalium]
+>WP_010874954.1 ATP synthase epsilon chain [Mycoplasma pneumoniae]
+WP_010869467.1	WP_010874954	77.444	133	30	0	1	133	1	133	2.72e-71	218
+# Query: WP_010869468.1 ATP synthase subunit beta [Mycoplasma genitalium]
+>WP_010874955.1 ATP synthase subunit beta [Mycoplasma pneumoniae]
+WP_010869468.1	WP_010874955	92.111	469	37	0	2	470	1	469	0.0	891
+# Query: WP_010869470.1 peptide-methionine (S)-S-oxide reductase [Mycoplasma genitalium]
+>WP_010874964.1 peptide-methionine (S)-S-oxide reductase [Mycoplasma pneumoniae]
+WP_010869470.1	WP_010874964	77.070	157	36	0	1	157	1	157	6.78e-90	266
+# Query: WP_010869471.1 phosphate ABC transporter permease [Mycoplasma genitalium]
+>WP_010874967.1 phosphate ABC transporter permease [Mycoplasma pneumoniae]
+WP_010869471.1	WP_010874967	78.101	653	140	1	1	653	1	650	0.0	1008
+# Query: WP_010869472.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874968.1 phosphate ABC transporter substrate-binding protein [Mycoplasma pneumoniae]
+WP_010869472.1	WP_010874968	65.289	363	118	4	17	377	29	385	9.01e-166	477
+# Query: WP_010869473.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874969.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869473.1	WP_010874969	46.307	1002	515	15	1	990	1	991	0.0	858
+# Query: WP_010869474.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874969.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869474.1	WP_010874969	32.069	580	373	7	48	620	432	997	1.22e-81	287
+# Query: WP_010869475.1 30S ribosomal protein S9 [Mycoplasma genitalium]
+>WP_010874973.1 30S ribosomal protein S9 [Mycoplasma pneumoniae]
+WP_010869475.1	WP_010874973	84.091	132	21	0	1	132	1	132	1.49e-69	213
+# Query: WP_010869476.1 50S ribosomal protein L13 [Mycoplasma genitalium]
+>WP_010874974.1 50S ribosomal protein L13 [Mycoplasma pneumoniae]
+WP_010869476.1	WP_010874974	86.301	146	20	0	1	146	1	146	1.93e-90	267
+# Query: WP_010869478.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325640.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869478.1	WP_014325640	49.761	838	417	3	1	834	1	838	0.0	766
+# Query: WP_010869479.1 RNase J family beta-CASP ribonuclease [Mycoplasma genitalium]
+>WP_010874978.1 ribonuclease J [Mycoplasma pneumoniae]
+WP_010869479.1	WP_010874978	85.740	561	80	0	1	561	1	561	0.0	1010
+# Query: WP_010869480.1 phosphoenolpyruvate--protein phosphotransferase [Mycoplasma genitalium]
+>WP_014325643.1 phosphoenolpyruvate--protein phosphotransferase [Mycoplasma pneumoniae]
+WP_010869480.1	WP_014325643	74.650	572	145	0	1	572	1	572	0.0	909
+# Query: WP_010869481.1 ribosome recycling factor [Mycoplasma genitalium]
+>WP_010874993.1 ribosome recycling factor [Mycoplasma pneumoniae]
+WP_010869481.1	WP_010874993	70.652	184	53	1	1	183	1	184	2.47e-93	277
+# Query: WP_010869482.1 GTPase [Mycoplasma genitalium]
+>WP_010875013.1 ribosome biogenesis GTPase A [Mycoplasma pneumoniae]
+WP_010869482.1	WP_010875013	71.218	271	77	1	1	270	1	271	7.26e-139	400
+# Query: WP_010869483.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325665.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869483.1	WP_014325665	75.128	390	94	1	9	395	11	400	0.0	605
+# Query: WP_010869484.1 50S ribosomal protein L19 [Mycoplasma genitalium]
+>WP_010875015.1 50S ribosomal protein L19 [Mycoplasma pneumoniae]
+WP_010869484.1	WP_010875015	90.678	118	11	0	1	118	1	118	2.23e-72	219
+# Query: WP_010869485.1 tRNA (guanosine(37)-N1)-methyltransferase TrmD [Mycoplasma genitalium]
+>WP_017532956.1 tRNA (guanosine(37)-N1)-methyltransferase TrmD [Mycoplasma pneumoniae]
+WP_010869485.1	WP_017532956	77.056	231	53	0	1	231	1	231	1.53e-133	383
+# Query: WP_010869486.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325668.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_010869486.1	WP_014325668	68.488	549	171	2	1	547	1	549	0.0	758
+# Query: WP_010869488.1 tyrosine--tRNA ligase [Mycoplasma genitalium]
+>WP_010875026.1 tyrosine--tRNA ligase [Mycoplasma pneumoniae]
+WP_010869488.1	WP_010875026	61.519	395	151	1	1	394	1	395	0.0	519
+# Query: WP_010869489.1 HD domain-containing protein [Mycoplasma genitalium]
+>WP_010875034.1 phosphohydrolase [Mycoplasma pneumoniae]
+WP_010869489.1	WP_010875034	75.000	424	106	0	1	424	1	424	0.0	680
+# Query: WP_010869490.1 ribosomal RNA small subunit methyltransferase A [Mycoplasma genitalium]
+>WP_010875036.1 ribosomal RNA small subunit methyltransferase A [Mycoplasma pneumoniae]
+WP_010869490.1	WP_010875036	59.696	263	102	1	1	259	1	263	4.57e-111	328
+# Query: WP_010869492.1 ABC transporter ATP-binding protein [Mycoplasma genitalium]
+>WP_010875042.1 ABC transporter ATP-binding protein [Mycoplasma pneumoniae]
+WP_010869492.1	WP_010875042	82.042	284	51	0	1	284	1	284	1.38e-153	438
+# Query: WP_010869493.1 chromosomal replication initiator protein DnaA [Mycoplasma genitalium]
+>WP_014325680.1 chromosomal replication initiator protein DnaA [Mycoplasma pneumoniae]
+WP_010869493.1	WP_014325680	79.727	439	87	1	1	437	1	439	0.0	720
+# Query: WP_014893951.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325432.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_014893951.1	WP_014325432	37.363	91	57	0	9	99	1	91	1.36e-12	66.6
+# Query: WP_014894004.1 RDD family protein [Mycoplasma genitalium]
+>WP_019830464.1 RDD family protein [Mycoplasma pneumoniae]
+WP_014894004.1	WP_019830464	46.847	222	117	1	1	221	1	222	1.40e-63	205
+# Query: WP_014894005.1 cysteine--tRNA ligase [Mycoplasma genitalium]
+>WP_010874712.1 cysteine--tRNA ligase [Mycoplasma pneumoniae]
+WP_014894005.1	WP_010874712	71.396	437	124	1	1	436	1	437	0.0	663
+# Query: WP_014894023.1 MFS transporter [Mycoplasma genitalium]
+>WP_010874777.1 MFS transporter [Mycoplasma pneumoniae]
+WP_014894023.1	WP_010874777	78.105	475	101	3	1	472	1	475	0.0	725
+# Query: WP_014894030.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325543.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_014894030.1	WP_014325543	57.295	281	118	2	1	281	7	285	5.62e-109	325
+# Query: WP_014894033.1 hypothetical protein [Mycoplasma genitalium]
+# Query: WP_014894034.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874825.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_014894034.1	WP_010874825	54.733	243	109	1	13	254	1	243	6.36e-89	271
+# Query: WP_014894048.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014575020.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_014894048.1	WP_014575020	56.522	69	30	0	1	69	1	69	3.19e-19	81.3
+# Query: WP_014894056.1 hypothetical protein [Mycoplasma genitalium]
+>WP_017532864.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_014894056.1	WP_017532864	56.585	205	89	0	1	205	1	205	1.18e-69	219
+# Query: WP_014894311.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874909.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_014894311.1	WP_010874909	58.242	273	110	2	19	291	1	269	4.35e-113	335
+# Query: WP_014894390.1 uracil-DNA glycosylase [Mycoplasma genitalium]
+>WP_010874592.1 uracil-DNA glycosylase [Mycoplasma pneumoniae]
+WP_014894390.1	WP_010874592	56.034	232	102	0	1	232	1	232	7.52e-92	278
+# Query: WP_014894509.1 excinuclease ABC subunit A [Mycoplasma genitalium]
+>WP_014325639.1 excinuclease ABC subunit A [Mycoplasma pneumoniae]
+WP_014894509.1	WP_014325639	85.232	948	140	0	1	948	1	948	0.0	1706
+# Query: WP_014894681.1 RNA pseudouridine synthase [Mycoplasma genitalium]
+>WP_010874905.1 pseudouridine synthase [Mycoplasma pneumoniae]
+WP_014894681.1	WP_010874905	61.950	318	121	0	13	330	5	322	1.60e-143	416
+# Query: WP_014894702.1 30S ribosomal protein S16 [Mycoplasma genitalium]
+>WP_014325667.1 30S ribosomal protein S16 [Mycoplasma pneumoniae]
+WP_014894702.1	WP_014325667	87.805	82	10	0	1	82	1	82	2.02e-48	156
+# Query: WP_029329854.1 nicotinate phosphoribosyltransferase [Mycoplasma genitalium]
+>WP_010874404.1 nicotinate phosphoribosyltransferase [Mycoplasma pneumoniae]
+WP_029329854.1	WP_010874404	66.667	450	149	1	1	449	1	450	0.0	634
+# Query: WP_041361276.1 organic hydroperoxide reductase OsmC/OhrA [Mycoplasma genitalium]
+>WP_010875025.1 organic hydroperoxide resistance protein-like [Mycoplasma pneumoniae]
+WP_041361276.1	WP_010875025	63.571	140	51	0	1	140	1	140	2.31e-61	193
+# Query: WP_041593664.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874498.1 adhesin P1 [Mycoplasma pneumoniae]
+WP_041593664.1	WP_010874498	29.825	171	77	8	1	133	200	365	0.004	45.8
+# Query: WP_041593665.1 adhesin [Mycoplasma genitalium]
+>WP_053344117.1 adhesin P1 [Mycoplasma pneumoniae]
+WP_041593665.1	WP_053344117	44.242	165	62	7	23	159	890	1052	2.57e-23	104
+# Query: WP_041593667.1 hypothetical protein [Mycoplasma genitalium]
+>WP_061678009.1 peptidase S8 [Bacillus wiedmannii]
+WP_041593667.1	WP_061678009	27.523	109	64	4	38	132	97	204	0.98	38.5
+# Query: WP_041593668.1 adhesin [Mycoplasma genitalium]
+>WP_053344163.1 adhesin P1 [Mycoplasma pneumoniae]
+WP_041593668.1	WP_053344163	43.077	130	68	2	25	148	923	1052	1.04e-20	97.4
+# Query: WP_041593670.1 hypothetical protein [Mycoplasma genitalium]
+>WP_054173264.1 adhesin P1, partial [Mycoplasma pneumoniae]
+WP_041593670.1	WP_054173264	36.585	82	32	3	67	129	195	275	0.20	40.4
+# Query: WP_041593671.1 adhesin [Mycoplasma genitalium]
+>WP_054174949.1 adhesin [Mycoplasma pneumoniae]
+WP_041593671.1	WP_054174949	42.012	169	67	6	24	164	90	255	1.75e-21	98.6
+# Query: WP_041593672.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874506.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_041593672.1	WP_010874506	37.097	248	99	3	3	195	69	314	3.45e-43	159
+# Query: WP_041593673.1 hypothetical protein [Mycoplasma genitalium]
+>WP_053344117.1 adhesin P1 [Mycoplasma pneumoniae]
+WP_041593673.1	WP_053344117	27.545	167	84	5	1	131	200	365	0.12	41.6
+# Query: WP_041593674.1 adhesin [Mycoplasma genitalium]
+>WP_054174917.1 hypothetical protein, partial [Mycoplasma pneumoniae]
+WP_041593674.1	WP_054174917	40.506	158	64	6	23	152	88	243	8.31e-22	98.6
+# Query: WP_041593675.1 hypothetical protein [Mycoplasma genitalium]
+>WP_058129048.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_041593675.1	WP_058129048	38.462	247	88	6	7	200	79	314	6.58e-40	154
+# Query: WP_041593676.1 hypothetical protein [Mycoplasma genitalium]
+# Query: WP_041593677.1 adhesin [Mycoplasma genitalium]
+>WP_010874643.1 adhesin P1 family protein [Mycoplasma pneumoniae]
+WP_041593677.1	WP_010874643	38.342	193	89	8	3	169	68	256	8.89e-21	97.4
+# Query: WP_041593678.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014325371.1 cytadherence-related protein [Mycoplasma pneumoniae]
+WP_041593678.1	WP_014325371	41.398	558	206	10	1	445	75	624	1.76e-124	397
+# Query: WP_041593679.1 hypothetical protein [Mycoplasma genitalium]
+>WP_014574889.1 MgpC protein [Mycoplasma pneumoniae]
+WP_041593679.1	WP_014574889	42.197	519	192	10	8	436	125	625	8.83e-119	382
+# Query: WP_041593680.1 adhesin [Mycoplasma genitalium]
+>WP_051790844.1 adhesin [Mycoplasma pneumoniae]
+WP_041593680.1	WP_051790844	55.914	93	37	1	64	152	152	244	6.09e-21	97.1
+# Query: WP_041593682.1 adhesin [Mycoplasma genitalium]
+>WP_010874726.1 adhesin P1 family protein [Mycoplasma pneumoniae]
+WP_041593682.1	WP_010874726	41.358	162	65	5	23	154	121	282	1.60e-21	99.8
+# Query: WP_041593683.1 Mgp-operon protein 3 [Mycoplasma genitalium]
+>WP_014574889.1 MgpC protein [Mycoplasma pneumoniae]
+WP_041593683.1	WP_014574889	52.920	1113	384	17	22	1010	25	1121	0.0	1061
+# Query: WP_049759242.1 hypothetical protein [Mycoplasma genitalium]
+>WP_058129048.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_049759242.1	WP_058129048	35.016	317	104	10	3	233	24	324	3.49e-40	151
+# Query: WP_049759247.1 hypothetical protein [Mycoplasma genitalium]
+>WP_058129048.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_049759247.1	WP_058129048	37.162	296	102	10	3	216	24	317	7.04e-39	149
+# Query: WP_049759248.1 hypothetical protein [Mycoplasma genitalium]
+>WP_053344056.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_049759248.1	WP_053344056	44.191	482	169	7	50	441	148	619	8.47e-119	382
+# Query: WP_081440606.1 signal recognition particle protein [Mycoplasma genitalium]
+>WP_010874418.1 signal recognition particle protein [Mycoplasma pneumoniae]
+WP_081440606.1	WP_010874418	79.343	426	88	0	1	426	14	439	0.0	709
+# Query: WP_081440607.1 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [Mycoplasma genitalium]
+>WP_015344894.1 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase [Mycoplasma pneumoniae]
+WP_081440607.1	WP_015344894	62.500	216	78	2	1	215	1	214	1.62e-88	268
+# Query: WP_081440608.1 hypothetical protein [Mycoplasma genitalium]
+>WP_026088326.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_081440608.1	WP_026088326	43.750	48	27	0	62	109	27	74	0.001	44.3
+# Query: WP_081440609.1 adhesin [Mycoplasma genitalium]
+>WP_010874562.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_081440609.1	WP_010874562	37.805	82	31	3	34	96	194	274	0.008	45.1
+# Query: WP_081440610.1 glycosyl transferase family A [Mycoplasma genitalium]
+>WP_010874385.1 glycosyl transferase [Mycoplasma pneumoniae]
+WP_081440610.1	WP_010874385	72.917	288	78	0	1	288	11	298	4.13e-162	460
+# Query: WP_081440611.1 hypothetical protein [Mycoplasma genitalium]
+>WP_010874506.1 hypothetical protein [Mycoplasma pneumoniae]
+WP_081440611.1	WP_010874506	35.714	154	44	3	3	114	184	324	1.45e-18	88.6
+# Query: WP_081440612.1 hypothetical protein [Mycoplasma genitalium]
+# Query: WP_081440613.1 hypothetical protein [Mycoplasma genitalium]

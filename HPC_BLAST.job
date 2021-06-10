@@ -1,0 +1,59 @@
+#!/bin/bash
+
+#BME 5320 Bioinformatics Techniques
+#Final Project Due Friday 12/15/2017
+#Waddah Moghram
+
+# This program will run	blastp for the chunked up ProteinInput files
+# The output of blastp will be ProteinOutput files
+# Also, output files will include the names of input proteins in the generate .o<JOBID> file
+
+# the flags below are what follows the "qsub" being run in the terminal
+
+#Set the name of the job. This will be the first part of the error/output filename.
+#$ -N BlastpResults
+
+#Set the shell that should be used to run the job.
+#$ -S /bin/bash
+
+#Set the current working directory as the location for the error and output files.
+#(Will show up as .e and .o files)
+#$ -cwd
+
+#Select the number of slots the job will use. This should resolve the issue of jobs being killed
+#$ -pe smp 4 
+
+
+#Select the queue to run in
+# *** Queues I am allowed access to: COE, DK, UI, UI-HM, all.q, sandbox *** Found by typing 'whichq'
+# all.q will provide no job limits, but subject to eviction
+# UI has 10 jobs limit, but cannot be evicted...all university
+# UI-HM is high-memory...all university
+# You need to specify one of UI or UI-HM
+# DK is the dedicate queue for this class
+# COE is College of Engineering
+#$ -q DK,UI,COE
+
+#Print information from the job into the output file
+#echo `terminalcommand`
+#Jobs will be sutmitted in the next via '-t' or thread flag
+#qsub -t 1:$JobCount HPC_BLAST.job
+
+#echo "This is the SGE Task ID: $SGE_TASK_ID"
+echo "ProteinInput$SGE_TASK_ID.faa"
+blastp -query Protein_Input/ProteinInput$SGE_TASK_ID.faa -db refseq_protein -out ProteinOutput$SGE_TASK_ID.txt -num_threads=4 -outfmt 7
+
+#==========================================================
+#Send e-mail at beginning/end/suspension of job
+##    $ -m bes
+#E-mail address to send to
+##    $ -M waddah-moghram@uiowa.edu
+
+
+#####Sleep for 60 seconds
+#####sleep 60
+
+#Print the end date of the job before exiting
+#echo Now it is: `date`
+#echo "This is the SGE Task ID: $SGE_TASK_ID"
+

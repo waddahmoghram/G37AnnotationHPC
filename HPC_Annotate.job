@@ -1,0 +1,117 @@
+#!/bin/bash
+
+#BME 5320 Bioinformatics Techniques
+#Final Project Due Friday 12/15/2017
+#Waddah Moghram
+
+# This program will run after HPC_BLAST.job
+# It will annotate the results of blastp from the previous step
+# It will invoke a perl program, which in turn will invoke the blastdbcmd annotation program
+# in the terminal shell. 
+# lastly it will invoke another perl program to compile the final result
+
+# NOTE: Consider cleaning the following directories ahead of time:
+# Protein_Output/
+# qsub_Results/
+
+# the flags below are what follows the "qsub" being run in the terminal
+
+#Set the name of the job. This will be the first part of the error/output filename.
+#$ -N AnnotationResults
+
+#Set the shell that should be used to run the job.
+#$ -S /bin/bash
+
+#Set the current working directory as the location for the error and output files.
+#(Will show up as .e and .o files)
+#$ -cwd
+
+#Select the number of slots the job will use. This should resolve the issue of jobs being killed
+#$ -pe smp 2
+
+#Select the queue to run in
+# *** Queues I am allowed access to: COE, DK, UI, UI-HM, all.q, sandbox *** Found by typing 'whichq'
+# all.q will provide no job limits, but subject to eviction
+# UI has 10 jobs limit, but cannot be evicted...all university
+# UI-HM is high-memory...all university
+# UI-HM is high-memory...all university
+# You need to specify one of UI or UI-HM
+# DK is the dedicate queue for this class
+# COE is College of Engineering
+#$ -q DK,UI,COE
+
+echo `date`
+
+#---------------------------------------------
+# 08. Check for Errors in Job
+# Need to figure out how to retriever: 1. job IDs & 2. query files that are not sequences
+
+# Probably add a step that will check for errors in running
+# Check the size of files ending .e<JOBID> if it is greater than 0
+# If so, then read the corresponding ProteinInput file from the .o<JOBID> file
+
+#---------------------------------------------
+# 09. Filter based on E-values and based on Hits/Bitscore and based on Query Coverage?
+# Now running the perl codes for annotations, which will invoke blastdbcmd while filtering
+# Blastdbcmd -entry 'NP_' -target_only -db refseq_protein -target_only
+
+# - Moving Output to the same folder. Clean up any previous ones if it exists. Override any errors
+
+#JobCount=52
+JobCount=$(ls Protein_Input/ | wc -l)
+echo 'There are '$JobCount' Jobs to be submitted to HPC for annotation'
+#echo $JobCount
+
+#rm -rf Protein_Output/
+mkdir -p  Protein_Output
+mv ProteinOutput* Protein_Output/
+
+for i in $(seq 1 $JobCount)
+do
+	perl -w ProteinFilterHits.pl Protein_Output/ProteinOutput$i.txt
+	echo $i
+done
+
+#---------------------------------------------
+# 10. Compiling the annotate sequences into one output file: "ProteinOutputAnnotatedCompiled.txt"
+
+CompiledFile=Protein_Output/ProteinOutputAnnotatedCompiled.txt
+rm -f $CompiledFile
+
+#Create a header for the final compiled File
+awk 'NR == 1 {print; exit}' Protein_Output/ProteinOutput1.txt > $CompiledFile
+awk 'NR == 3 {print; exit}' Protein_Output/ProteinOutput1.txt >> $CompiledFile
+awk 'NR == 4 {print; exit}' Protein_Output/ProteinOutput1.txt >> $CompiledFile
+
+for i in $(seq 1 $JobCount)
+do
+  	filename="Protein_Output/ProteinOutput"$i"Annotated.txt"
+        cat $filename >> $CompiledFile
+done
+
+#---------------------------------------------
+# 11. Do a final check for the number of annotate proteins, and hits: "ProteinOutputAnnotateResults.txt"
+
+ResultsFile=Protein_Output/ProteinOutputAnnotatedResults.txt
+
+#Create a header for the final compiled File
+# Note: > means write, >> means append to file
+awk 'NR == 1 {print; exit}' Protein_Output/ProteinOutput1.txt > $ResultsFile
+awk 'NR == 3 {print; exit}' Protein_Output/ProteinOutput1.txt >> $ResultsFile
+
+echo "The count of query proteins in the final file are: " >> $ResultsFile
+echo `expr $(cat $CompiledFile | grep "#" | wc -l) - 3` >> $ResultsFile
+# echo `expr 518 - 3`
+# remove three lines that were added as a header
+
+echo "The count of hit proteins in the final file meeting criteria are: " >> $ResultsFile
+cat $CompiledFile | grep ">" | wc -l >> $ResultsFile
+
+#---------------------------------------------
+# 12. Cleanup all the results from AnnotationResults and BlastpResults
+
+#rm -rf qsub_Results/
+mkdir -p  qsub_Results
+mv AnnotationResults* qsub_Results/
+mv AnnotationResults.p qsub_Results/
+mv BlastpResults* qsub_Results/

@@ -1,0 +1,6 @@
+# BLASTP 2.5.0+
+# Database: refseq_protein
+The count of query proteins in the final file are: 
+515
+The count of hit proteins in the final file meeting criteria are: 
+507
