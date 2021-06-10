@@ -45,7 +45,7 @@ Once a hit that is not for the same organism is encountered, the annotation comm
 The output of `ProteinFilterHits.pl` will be append the word Annotated to its respective `ProteinOutput` file, which are moved to folder `Protein_Output`. Each annotated file will list the queries (starting with `#` sign), followed by the subject, followed by top annotation subject obtained by `blastdbcmd` (starting with > sign), and then the results of the top hit extracted from `blastp` results for each query protein in tabular format.
 ![Figure 2](https://github.com/waddahmoghram/G37AnnotationHPC/blob/main/Figure%202.jpg)
 
-#Compiling of Annotated Results and Addition of Headers
+# Compiling of Annotated Results and Addition of Headers
 Once all the files are annotated, the final output file `ProteinOutputAnnotatedCompiled.txt` under `Protein_Output` folder is generated, by appending all `ProteinOutput**Annotated.txt` end-to- end. Next, a header is created at the beginning by copying lines 1, 3 and 4 of the standard `BLASTp` results in output format 7. These header lines are the version of `BLAST` program, the database used, and a header for the results columns.
 ![Figure 3](https://github.com/waddahmoghram/G37AnnotationHPC/blob/main/Figure%203.jpg)
 
