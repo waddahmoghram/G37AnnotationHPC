@@ -35,10 +35,21 @@ The Annotation code, `HPC_Annotate.job`, is submitted via `qsub` command from in
 However, it is placed on hold until all `HPC_BLAST.job` tasks are complete by using the flag
 `-hold_jid`. This parameter is extracted from the first `qsub` lines by a one-line bash script and passed on as variable `hold_JIB`. The output of each `BLAST` job is saved in text files starting with `ProteinOutput`, which are moved to folder `Protein_Output`.
 
+## fIGURE 1
+`HPC_Annotate.job` will determine the number of `JobCount` files using a bash script again since that variable is lost between jobs. After that it will run `ProteinFilterHits.pl`, which is a custom-written Perl program to any given output file. `ProteinFilterHits.pl` is called continuously to loop through all the `ProteinOutput**.txt` files. In the Perl program, the files are read line-by-line, Then, lines are either classified as sequence header or hit results. The hit results are checked for *E-value* to see if it is less than the desired threshold value—chosen to be 1, which is pure chance—although it can be set to a stricter criterion. From within Perl, `blastdbcmd` is invoked using `qx//`, as opposed to `exec()` or `system()`, since `system()` also outputs an "exit return status", which confuses things, while `exec()` does not return the `STDOUT`.
 
+The annotation is checked to see if it is for the same organism or not (**Note:** Uncomment print "same organism" line to see how this works). Also, the length of the query sequence is called by using `blastdbcmd` followed by some Perl code to extract that information. This information is needed in order to calculate the coverage percentage. The subject percentage coverage cutoff chosen is 50% of the query sequence, but it can be modified in the code. If the organism is the same, then the next hit is searched.
+Once a hit that is not for the same organism is encountered, the annotation command is not executed. However, the program continues reading lines. (**NOTE:** This is not exactly very efficient code, but it is the simplest). When the next query sequence is encountered, a new search is started.
 
+The output of `ProteinFilterHits.pl` will be append the word Annotated to its respective `ProteinOutput` file, which are moved to folder `Protein_Output`. Each annotated file will list the queries (starting with `#` sign), followed by the subject, followed by top annotation subject obtained by `blastdbcmd` (starting with > sign), and then the results of the top hit extracted from `blastp` results for each query protein in tabular format.
 
+## fIGURE 2
+#Compiling of Annotated Results and Addition of Headers
+Once all the files are annotated, the final output file `ProteinOutputAnnotatedCompiled.txt` under `Protein_Output` folder is generated, by appending all `ProteinOutput**Annotated.txt` end-to- end. Next, a header is created at the beginning by copying lines 1, 3 and 4 of the standard `BLASTp` results in output format 7. These header lines are the version of `BLAST` program, the database used, and a header for the results columns.
+## fIGURE 3
 
+One final check of the compiled file to ensure that all the query proteins are present. These results are output to `ProteinOutputAnnotatedResults.txt`, which is also under folder `Protein_Output`. Moreover, the number of hit queries that meet our criteria are count. Out of 515 query proteins, only 507 protein sequence hits were found. The others that were not found were either from the same organism in the database – which we do not want, or had *E-values* that were above the desired cut-off value. I also included a header indicated the `BLASTP` edition, and the database used.
+# Figure 4
 
 # Possible Room for Improvement
 1.	Provide a check for maximum number of cores. Select that number if it has the least desire number of slots instead of having to wait for the entire cluster.
